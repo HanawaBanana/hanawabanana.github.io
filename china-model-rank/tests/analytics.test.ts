@@ -1,5 +1,9 @@
 import { describe, expect, it } from "vitest";
+import { readFileSync } from "fs";
+import { join } from "path";
 import { classifyTrafficSource, stableHash } from "@/lib/analytics";
+
+const projectRoot = process.cwd();
 
 describe("traffic source classification", () => {
   it("detects Chinese and global search engines", () => {
@@ -35,5 +39,19 @@ describe("traffic source classification", () => {
     expect(stableHash("abc")).toHaveLength(64);
     expect(stableHash("abc")).toBe(stableHash("abc"));
     expect(stableHash(null)).toBeNull();
+  });
+
+  it("keeps Google Analytics enabled for Pages builds", () => {
+    const workflow = readFileSync(join(projectRoot, "../.github/workflows/deploy-pages.yml"), "utf8");
+    const packageJson = readFileSync(join(projectRoot, "package.json"), "utf8");
+    const gaComponent = readFileSync(join(projectRoot, "components/GoogleAnalytics.tsx"), "utf8");
+    const layout = readFileSync(join(projectRoot, "app/layout.tsx"), "utf8");
+
+    expect(workflow).toContain('NEXT_PUBLIC_GA_MEASUREMENT_ID: "G-W80TF1WPB4"');
+    expect(workflow).not.toContain("NEXT_PUBLIC_DISABLE_ANALYTICS");
+    expect(packageJson).toContain("NEXT_PUBLIC_GA_MEASUREMENT_ID=${NEXT_PUBLIC_GA_MEASUREMENT_ID:-G-W80TF1WPB4}");
+    expect(gaComponent).toContain("https://www.googletagmanager.com/gtag/js?id=");
+    expect(gaComponent).toContain("gtag('config'");
+    expect(layout).toContain("<GoogleAnalytics />");
   });
 });
