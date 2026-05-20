@@ -5,7 +5,7 @@
   "scripts": {
     "dev": "next dev",
     "build": "next build",
-    "build:pages": "NEXT_PUBLIC_DISABLE_ANALYTICS=1 NEXT_PUBLIC_BASE_PATH=${NEXT_PUBLIC_BASE_PATH:-/china-model-rank} NEXT_PUBLIC_SITE_URL=${NEXT_PUBLIC_SITE_URL:-https://hanawabanana.github.io/china-model-rank} NEXT_PUBLIC_GA_MEASUREMENT_ID=${NEXT_PUBLIC_GA_MEASUREMENT_ID:-G-W80TF1WPB4} next build",
+    "build:pages": "NEXT_PUBLIC_DISABLE_ANALYTICS=1 NEXT_PUBLIC_BASE_PATH=${NEXT_PUBLIC_BASE_PATH:-/china-model-rank} NEXT_PUBLIC_SITE_URL=${NEXT_PUBLIC_SITE_URL:-https://page.far-domain.top/china-model-rank} NEXT_PUBLIC_GA_MEASUREMENT_ID=${NEXT_PUBLIC_GA_MEASUREMENT_ID:-G-W80TF1WPB4} next build",
     "start": "next start",
     "lint": "next lint",
     "typecheck": "tsc --noEmit",

@@ -21,6 +21,6 @@ describe("seo routes", () => {
   });
 
   it("uses the GitHub Pages site url by default", () => {
-    expect(absoluteUrl("/models/deepseek-r1")).toBe("https://hanawabanana.github.io/china-model-rank/models/deepseek-r1");
+    expect(absoluteUrl("/models/deepseek-r1")).toBe("https://page.far-domain.top/china-model-rank/models/deepseek-r1");
   });
 });

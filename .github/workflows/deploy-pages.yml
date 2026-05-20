@@ -32,13 +32,14 @@ jobs:
         env:
           NEXT_PUBLIC_DISABLE_ANALYTICS: "1"
           NEXT_PUBLIC_BASE_PATH: "/china-model-rank"
-          NEXT_PUBLIC_SITE_URL: "https://hanawabanana.github.io/china-model-rank"
+          NEXT_PUBLIC_SITE_URL: "https://page.far-domain.top/china-model-rank"
           NEXT_PUBLIC_GA_MEASUREMENT_ID: "G-W80TF1WPB4"
         run: npm run build
       - name: Stage site under subpath
         run: |
           rm -rf ../page-artifact
           mkdir -p ../page-artifact/china-model-rank
+          printf "page.far-domain.top\n" > ../page-artifact/CNAME
           cp -R out/. ../page-artifact/china-model-rank/
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3

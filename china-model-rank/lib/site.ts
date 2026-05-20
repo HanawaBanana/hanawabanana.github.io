@@ -1,6 +1,6 @@
 export const siteName = "中国大模型排行榜";
 
-export const defaultSiteUrl = "https://hanawabanana.github.io/china-model-rank";
+export const defaultSiteUrl = "https://page.far-domain.top/china-model-rank";
 
 function stripTrailingSlash(value: string) {
   return value.replace(/\/+$/, "");

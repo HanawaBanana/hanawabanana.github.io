@@ -101,7 +101,7 @@ BROWSER_CRAWL_PLATFORMS=xiaohongshu BROWSER_CRAWL_MIN_DELAY_MS=45000 BROWSER_CRA
 默认项目页地址：
 
 ```bash
-https://hanawabanana.github.io/china-model-rank
+https://page.far-domain.top/china-model-rank
 ```
 
 如果仓库名或用户名不同，发布前修改这两个环境变量：
