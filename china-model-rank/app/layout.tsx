@@ -9,26 +9,43 @@ import "@/app/globals.css";
 export const metadata: Metadata = {
   metadataBase: new URL(absoluteUrl()),
   title: {
-    default: "中国大模型排行榜 2026 | 通义、DeepSeek、Kimi、豆包等模型评分对比",
-    template: "%s | 中国大模型排行榜"
+    default: "中国大模型排行 2026 | 大模型排行榜、用户口碑与评分对比",
+    template: "%s | 中国大模型排行"
   },
-  description: "面向普通用户的中国大模型排行榜，查看通义、DeepSeek、Kimi、豆包、文心、智谱等模型的排名、评分、公司、适用场景和用户评价来源。",
+  description:
+    "中国大模型排行和大模型排行榜，覆盖 DeepSeek、通义千问、Kimi、豆包、文心一言、智谱 GLM、混元等模型名称、综合评分、能力对比和用户口碑来源。",
   keywords: [
+    "中国大模型",
+    "大模型排行",
+    "中国大模型排行",
     "中国大模型排行榜",
+    "大模型排行榜",
+    "大模型排名",
     "国产大模型排名",
+    "国产大模型排行榜",
+    "大模型评分对比",
+    "大模型用户口碑",
+    "AI 大模型排行",
+    "中国 AI 模型排行",
     "DeepSeek 排名",
+    "DeepSeek 口碑",
+    "通义千问",
     "通义千问评分",
+    "Kimi 排名",
     "Kimi 评价",
     "豆包大模型",
+    "豆包 口碑",
     "文心一言",
+    "智谱 GLM",
+    "腾讯混元",
     "AI 模型对比"
   ],
   alternates: {
     canonical: absoluteUrl("/")
   },
   openGraph: {
-    title: "中国大模型排行榜 2026",
-    description: "查看中国厂商大模型排名、评分、公司和公开用户评价来源。",
+    title: "中国大模型排行 2026",
+    description: "查看 DeepSeek、通义千问、Kimi、豆包、文心一言、智谱 GLM 等中国大模型排名、评分对比和用户口碑来源。",
     url: absoluteUrl("/"),
     siteName,
     locale: "zh_CN",
@@ -36,8 +53,8 @@ export const metadata: Metadata = {
   },
   twitter: {
     card: "summary_large_image",
-    title: "中国大模型排行榜 2026",
-    description: "查看中国厂商大模型排名、评分、公司和公开用户评价来源。"
+    title: "中国大模型排行 2026",
+    description: "查看中国大模型排行榜、模型名称、评分对比和用户口碑来源。"
   },
   robots: {
     index: true,

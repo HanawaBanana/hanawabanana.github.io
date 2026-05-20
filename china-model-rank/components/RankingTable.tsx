@@ -13,10 +13,10 @@ export function RankingTable({ models }: { models: RankedModel[] }) {
       <div className="flex flex-col justify-between gap-4 border-b border-ink/10 bg-coal p-5 text-paper sm:flex-row sm:items-end">
         <div>
           <p className="text-[0.68rem] font-bold tracking-[0.22em] text-paper/60">今日榜单</p>
-          <h2 className="mt-2 font-display text-4xl font-black tracking-tight">中国大模型综合榜</h2>
+          <h2 className="mt-2 font-display text-4xl font-black tracking-tight">中国大模型排行综合榜</h2>
         </div>
         <p className="max-w-xl text-sm leading-7 text-paper/70">
-          榜单只展示品牌级排名；App、API 型号、开源地址和价格进入详情页查看。
+          大模型排行榜展示模型名称、公司、综合评分、能力分和用户口碑；App、API 型号、开源地址和价格进入详情页查看。
         </p>
       </div>
 

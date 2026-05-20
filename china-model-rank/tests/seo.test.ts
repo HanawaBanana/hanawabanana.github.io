@@ -38,6 +38,9 @@ describe("seo routes", () => {
     expect(rootRobots).toContain("Sitemap: https://page.far-domain.top/china-model-rank/sitemap.xml");
     expect(rootSitemap).toContain("https://page.far-domain.top/china-model-rank/sitemap.xml");
     expect(rootIndex).toContain('href="https://page.far-domain.top/china-model-rank/"');
+    expect(rootIndex).toContain("中国大模型排行");
+    expect(rootIndex).toContain("大模型排行榜");
+    expect(rootIndex).toContain("用户口碑");
     expect(workflow).toContain("cp ../CNAME ../robots.txt ../sitemap.xml ../index.html ../page-artifact/");
   });
 });

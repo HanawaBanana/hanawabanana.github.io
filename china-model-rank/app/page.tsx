@@ -16,18 +16,18 @@ export default function HomePage() {
         <div className="ledger-card relative overflow-hidden p-8 sm:p-10">
           <div className="absolute -right-16 -top-16 h-48 w-48 rounded-full border-[28px] border-cinnabar/10" />
           <div className="mb-8 flex flex-wrap items-center gap-2">
-            <span className="seal">排名优先 · 模型/公司/评分一屏可见</span>
+            <span className="seal">中国大模型排行 · 模型名称/公司/评分一屏可见</span>
             <span className="seal text-xs">每日更新</span>
           </div>
           <h1 className="max-w-4xl font-display text-5xl font-black leading-tight tracking-[-0.05em] text-coal sm:text-6xl">
-            中国大模型综合排名
+            中国大模型排行与大模型排行榜
           </h1>
           <p className="mt-6 max-w-2xl text-lg leading-9 text-graphite">
-            首页优先呈现排名、品牌、公司和 0-100 综合评分。能力分参考公开评测来源，口碑分只计入可追溯到实际内容页的真实用户反馈。
+            面向搜索“中国大模型”“大模型排行”“大模型排行榜”的用户，首页优先呈现 DeepSeek、通义千问、Kimi、豆包、文心一言、智谱 GLM 等模型名称、品牌公司、0-100 综合评分和用户口碑来源。
           </p>
           <div className="mt-8 flex flex-wrap gap-3">
             <Link href="#ranking" className="rounded-full bg-coal px-6 py-3 text-sm font-black text-paper transition hover:bg-cinnabar">
-              查看榜单
+              查看大模型排行
             </Link>
             <Link href="/methodology" className="rounded-full border border-ink/15 bg-paper px-6 py-3 text-sm font-black text-coal transition hover:bg-coal hover:text-paper">
               评分方法
