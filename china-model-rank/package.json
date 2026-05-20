@@ -1,0 +1,51 @@
+{
+  "name": "china-model-rank",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "build:pages": "NEXT_PUBLIC_DISABLE_ANALYTICS=1 NEXT_PUBLIC_BASE_PATH=${NEXT_PUBLIC_BASE_PATH:-/china-model-rank} NEXT_PUBLIC_SITE_URL=${NEXT_PUBLIC_SITE_URL:-https://hanawabanana.github.io/china-model-rank} NEXT_PUBLIC_GA_MEASUREMENT_ID=${NEXT_PUBLIC_GA_MEASUREMENT_ID:-G-W80TF1WPB4} next build",
+    "start": "next start",
+    "lint": "next lint",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:watch": "vitest",
+    "db:generate": "prisma generate",
+    "db:push": "prisma db push",
+    "db:seed": "tsx prisma/seed.ts",
+    "crawl:daily": "tsx scripts/daily-crawl.ts",
+    "crawl:browser": "tsx scripts/browser-reputation-crawl.ts",
+    "crawl:reputation": "tsx scripts/crawl-reputation.ts",
+    "crawl:reputation:daily": "tsx scripts/crawl-reputation.ts --daily",
+    "reputation:update": "tsx scripts/update-daily-reputation.ts",
+    "benchmark:update": "tsx scripts/update-benchmark-evidence.ts"
+  },
+  "dependencies": {
+    "@prisma/client": "^5.22.0",
+    "cheerio": "^1.0.0",
+    "clsx": "^2.1.1",
+    "next": "15.5.18",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "zod": "^3.24.1"
+  },
+  "devDependencies": {
+    "@types/node": "^20.17.16",
+    "@types/react": "^18.3.18",
+    "@types/react-dom": "^18.3.5",
+    "autoprefixer": "^10.4.20",
+    "eslint": "^8.57.1",
+    "eslint-config-next": "15.5.18",
+    "playwright": "^1.60.0",
+    "postcss": "^8.5.14",
+    "prisma": "^5.22.0",
+    "tailwindcss": "^3.4.17",
+    "tsx": "^4.19.2",
+    "typescript": "^5.7.3",
+    "vitest": "^2.1.8"
+  },
+  "prisma": {
+    "seed": "tsx prisma/seed.ts"
+  }
+}

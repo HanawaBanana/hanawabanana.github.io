@@ -1,0 +1,13 @@
+{
+  "collectedAt": "2026-05-16T11:10:42.340Z",
+  "evidenceSources": [],
+  "warnings": [
+    "缺少 ARTIFICIAL_ANALYSIS_API_KEY，Artificial Analysis 官方 API 未抓取。",
+    "缺少 LiveBench 导入行，需提供 LIVEBENCH_CSV_PATH 或 JSON 输入。"
+  ],
+  "nextSteps": [
+    "核对模型名映射，避免把同品牌不同型号误配。",
+    "确认来源 URL 可打开到官方 API 文档、模型页或 LiveBench 数据文件。",
+    "人工确认后把 evidenceSources 合并进 lib/data.ts 或后续数据库表。"
+  ]
+}

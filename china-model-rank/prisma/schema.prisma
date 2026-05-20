@@ -1,0 +1,201 @@
+generator client {
+  provider = "prisma-client-js"
+}
+
+datasource db {
+  provider = "postgresql"
+  url      = env("DATABASE_URL")
+}
+
+enum ReleaseType {
+  open
+  proprietary
+  hybrid
+}
+
+enum PlatformKey {
+  zhihu
+  weibo
+  bilibili
+  xiaohongshu
+  douyin
+  hupu
+  tieba
+  wechat
+  media
+}
+
+enum Sentiment {
+  positive
+  neutral
+  negative
+}
+
+enum AuditStatus {
+  pending
+  approved
+  rejected
+}
+
+model Vendor {
+  id          String   @id
+  name        String
+  shortName   String
+  description String
+  homepage    String
+  models      Model[]
+  createdAt   DateTime @default(now())
+  updatedAt   DateTime @updatedAt
+}
+
+model Model {
+  id          String             @id
+  slug        String             @unique
+  name        String
+  vendorId    String
+  family      String
+  aliases     String[]
+  tags        String[]
+  releaseType ReleaseType
+  access      String
+  freeAccess  String
+  paidCost    String
+  summary     String
+  vendor      Vendor             @relation(fields: [vendorId], references: [id])
+  rawItems    CrawledItem[]
+  reviews     NormalizedReview[]
+  snapshots   ScoreSnapshot[]
+  createdAt   DateTime           @default(now())
+  updatedAt   DateTime           @updatedAt
+
+  @@index([vendorId])
+}
+
+model PlatformSource {
+  id          String       @id @default(cuid())
+  platform    PlatformKey
+  name        String
+  baseUrl     String
+  enabled     Boolean      @default(true)
+  crawlPolicy String
+  rawItems    CrawledItem[]
+  createdAt   DateTime     @default(now())
+  updatedAt   DateTime     @updatedAt
+}
+
+model CrawledItem {
+  id          String         @id @default(cuid())
+  sourceId    String?
+  modelId     String
+  platform    PlatformKey
+  sourceUrl   String
+  title       String
+  textHash    String
+  excerpt     String
+  authorLabel String
+  publishedAt DateTime
+  fetchedAt   DateTime       @default(now())
+  rawPayload   Json
+  model       Model          @relation(fields: [modelId], references: [id])
+  source      PlatformSource? @relation(fields: [sourceId], references: [id])
+  review      NormalizedReview?
+
+  @@unique([platform, sourceUrl])
+  @@index([modelId, platform])
+}
+
+model NormalizedReview {
+  id           String      @id @default(cuid())
+  crawledItemId String?    @unique
+  modelId      String
+  platform     PlatformKey
+  authorLabel  String
+  title        String
+  excerpt      String
+  quote        String
+  quoteType    String
+  sourceTitle  String
+  url          String
+  sourceUrl    String
+  publishedAt  DateTime
+  collectedAt  DateTime
+  isExample    Boolean     @default(false)
+  sentiment    Sentiment
+  confidence   Float
+  topics       String[]
+  engagement   Int
+  engagementMetrics Json
+  positiveSignals String[]
+  auditStatus  AuditStatus @default(pending)
+  model        Model       @relation(fields: [modelId], references: [id])
+  crawledItem  CrawledItem? @relation(fields: [crawledItemId], references: [id])
+  createdAt    DateTime    @default(now())
+  updatedAt    DateTime    @updatedAt
+
+  @@index([modelId, auditStatus])
+  @@index([platform, publishedAt])
+}
+
+model ScoreRule {
+  id             String   @id @default(cuid())
+  name           String
+  capability     Float
+  priceAccess    Float
+  coding         Float
+  dataAnalysis   Float
+  ecosystem      Float
+  userReputation Float
+  active         Boolean  @default(false)
+  createdAt      DateTime @default(now())
+}
+
+model ScoreSnapshot {
+  id             String   @id @default(cuid())
+  modelId         String
+  total           Float
+  rank            Int
+  previousRank    Int
+  capability      Float
+  priceAccess     Float
+  coding          Float
+  dataAnalysis    Float
+  ecosystem       Float
+  userReputation  Float
+  explanation     String
+  sourceCount     Int
+  reviewCount     Int
+  generatedAt     DateTime
+  model           Model    @relation(fields: [modelId], references: [id])
+
+  @@index([generatedAt, rank])
+  @@index([modelId])
+}
+
+model AdminAuditLog {
+  id        String   @id @default(cuid())
+  actor     String
+  action    String
+  entity    String
+  entityId  String
+  before    Json?
+  after     Json?
+  createdAt DateTime @default(now())
+}
+
+model PageViewEvent {
+  id            String   @id @default(cuid())
+  path          String
+  referrer      String?
+  sourceType    String
+  searchEngine  String?
+  utmSource     String?
+  utmMedium     String?
+  utmCampaign   String?
+  sessionIdHash String?
+  userAgentHash String?
+  createdAt     DateTime @default(now())
+
+  @@index([createdAt])
+  @@index([sourceType, searchEngine])
+  @@index([path])
+}

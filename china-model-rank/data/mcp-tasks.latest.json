@@ -1,0 +1,6792 @@
+{
+  "collectedAt": "2026-05-16T14:39:22.493Z",
+  "pendingMcpTasks": [
+    {
+      "platform": "zhihu",
+      "modelId": "qwen-max",
+      "keyword": "千问",
+      "searchUrl": "https://www.zhihu.com/search?q=%E5%8D%83%E9%97%AE",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "qwen-max",
+      "keyword": "千问 好用",
+      "searchUrl": "https://www.zhihu.com/search?q=%E5%8D%83%E9%97%AE%20%E5%A5%BD%E7%94%A8",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "qwen-max",
+      "keyword": "千问 评测",
+      "searchUrl": "https://www.zhihu.com/search?q=%E5%8D%83%E9%97%AE%20%E8%AF%84%E6%B5%8B",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "qwen-max",
+      "keyword": "千问 对比",
+      "searchUrl": "https://www.zhihu.com/search?q=%E5%8D%83%E9%97%AE%20%E5%AF%B9%E6%AF%94",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "qwen-max",
+      "keyword": "千问 价格",
+      "searchUrl": "https://www.zhihu.com/search?q=%E5%8D%83%E9%97%AE%20%E4%BB%B7%E6%A0%BC",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "qwen-max",
+      "keyword": "千问 代码",
+      "searchUrl": "https://www.zhihu.com/search?q=%E5%8D%83%E9%97%AE%20%E4%BB%A3%E7%A0%81",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "qwen-max",
+      "keyword": "千问 写作",
+      "searchUrl": "https://www.zhihu.com/search?q=%E5%8D%83%E9%97%AE%20%E5%86%99%E4%BD%9C",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "qwen-max",
+      "keyword": "千问 推理",
+      "searchUrl": "https://www.zhihu.com/search?q=%E5%8D%83%E9%97%AE%20%E6%8E%A8%E7%90%86",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "qwen-max",
+      "keyword": "千问",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E5%8D%83%E9%97%AE",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "qwen-max",
+      "keyword": "千问 好用",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E5%8D%83%E9%97%AE%20%E5%A5%BD%E7%94%A8",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "qwen-max",
+      "keyword": "千问 评测",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E5%8D%83%E9%97%AE%20%E8%AF%84%E6%B5%8B",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "qwen-max",
+      "keyword": "千问 对比",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E5%8D%83%E9%97%AE%20%E5%AF%B9%E6%AF%94",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "qwen-max",
+      "keyword": "千问 价格",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E5%8D%83%E9%97%AE%20%E4%BB%B7%E6%A0%BC",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "qwen-max",
+      "keyword": "千问 代码",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E5%8D%83%E9%97%AE%20%E4%BB%A3%E7%A0%81",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "qwen-max",
+      "keyword": "千问 写作",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E5%8D%83%E9%97%AE%20%E5%86%99%E4%BD%9C",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "qwen-max",
+      "keyword": "千问 推理",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E5%8D%83%E9%97%AE%20%E6%8E%A8%E7%90%86",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "qwen-max",
+      "keyword": "千问",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E5%8D%83%E9%97%AE",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "qwen-max",
+      "keyword": "千问 好用",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E5%8D%83%E9%97%AE%20%E5%A5%BD%E7%94%A8",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "qwen-max",
+      "keyword": "千问 评测",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E5%8D%83%E9%97%AE%20%E8%AF%84%E6%B5%8B",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "qwen-max",
+      "keyword": "千问 对比",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E5%8D%83%E9%97%AE%20%E5%AF%B9%E6%AF%94",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "qwen-max",
+      "keyword": "千问 价格",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E5%8D%83%E9%97%AE%20%E4%BB%B7%E6%A0%BC",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "qwen-max",
+      "keyword": "千问 代码",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E5%8D%83%E9%97%AE%20%E4%BB%A3%E7%A0%81",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "qwen-max",
+      "keyword": "千问 写作",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E5%8D%83%E9%97%AE%20%E5%86%99%E4%BD%9C",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "qwen-max",
+      "keyword": "千问 推理",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E5%8D%83%E9%97%AE%20%E6%8E%A8%E7%90%86",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "qwen-max",
+      "keyword": "千问",
+      "searchUrl": "https://www.douyin.com/search/%E5%8D%83%E9%97%AE?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "qwen-max",
+      "keyword": "千问 好用",
+      "searchUrl": "https://www.douyin.com/search/%E5%8D%83%E9%97%AE%20%E5%A5%BD%E7%94%A8?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "qwen-max",
+      "keyword": "千问 评测",
+      "searchUrl": "https://www.douyin.com/search/%E5%8D%83%E9%97%AE%20%E8%AF%84%E6%B5%8B?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "qwen-max",
+      "keyword": "千问 对比",
+      "searchUrl": "https://www.douyin.com/search/%E5%8D%83%E9%97%AE%20%E5%AF%B9%E6%AF%94?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "qwen-max",
+      "keyword": "千问 价格",
+      "searchUrl": "https://www.douyin.com/search/%E5%8D%83%E9%97%AE%20%E4%BB%B7%E6%A0%BC?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "qwen-max",
+      "keyword": "千问 代码",
+      "searchUrl": "https://www.douyin.com/search/%E5%8D%83%E9%97%AE%20%E4%BB%A3%E7%A0%81?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "qwen-max",
+      "keyword": "千问 写作",
+      "searchUrl": "https://www.douyin.com/search/%E5%8D%83%E9%97%AE%20%E5%86%99%E4%BD%9C?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "qwen-max",
+      "keyword": "千问 推理",
+      "searchUrl": "https://www.douyin.com/search/%E5%8D%83%E9%97%AE%20%E6%8E%A8%E7%90%86?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "qwen-max",
+      "keyword": "千问",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E5%8D%83%E9%97%AE",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "qwen-max",
+      "keyword": "千问 好用",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E5%8D%83%E9%97%AE%20%E5%A5%BD%E7%94%A8",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "qwen-max",
+      "keyword": "千问 评测",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E5%8D%83%E9%97%AE%20%E8%AF%84%E6%B5%8B",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "qwen-max",
+      "keyword": "千问 对比",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E5%8D%83%E9%97%AE%20%E5%AF%B9%E6%AF%94",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "qwen-max",
+      "keyword": "千问 价格",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E5%8D%83%E9%97%AE%20%E4%BB%B7%E6%A0%BC",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "qwen-max",
+      "keyword": "千问 代码",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E5%8D%83%E9%97%AE%20%E4%BB%A3%E7%A0%81",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "qwen-max",
+      "keyword": "千问 写作",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E5%8D%83%E9%97%AE%20%E5%86%99%E4%BD%9C",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "qwen-max",
+      "keyword": "千问 推理",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E5%8D%83%E9%97%AE%20%E6%8E%A8%E7%90%86",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "qwen-max",
+      "keyword": "千问",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E5%8D%83%E9%97%AE",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "qwen-max",
+      "keyword": "千问 好用",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E5%8D%83%E9%97%AE%20%E5%A5%BD%E7%94%A8",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "qwen-max",
+      "keyword": "千问 评测",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E5%8D%83%E9%97%AE%20%E8%AF%84%E6%B5%8B",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "qwen-max",
+      "keyword": "千问 对比",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E5%8D%83%E9%97%AE%20%E5%AF%B9%E6%AF%94",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "qwen-max",
+      "keyword": "千问 价格",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E5%8D%83%E9%97%AE%20%E4%BB%B7%E6%A0%BC",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "qwen-max",
+      "keyword": "千问 代码",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E5%8D%83%E9%97%AE%20%E4%BB%A3%E7%A0%81",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "qwen-max",
+      "keyword": "千问 写作",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E5%8D%83%E9%97%AE%20%E5%86%99%E4%BD%9C",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "qwen-max",
+      "keyword": "千问 推理",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E5%8D%83%E9%97%AE%20%E6%8E%A8%E7%90%86",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "qwen-max",
+      "keyword": "千问",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E5%8D%83%E9%97%AE",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "qwen-max",
+      "keyword": "千问 好用",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E5%8D%83%E9%97%AE%20%E5%A5%BD%E7%94%A8",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "qwen-max",
+      "keyword": "千问 评测",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E5%8D%83%E9%97%AE%20%E8%AF%84%E6%B5%8B",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "qwen-max",
+      "keyword": "千问 对比",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E5%8D%83%E9%97%AE%20%E5%AF%B9%E6%AF%94",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "qwen-max",
+      "keyword": "千问 价格",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E5%8D%83%E9%97%AE%20%E4%BB%B7%E6%A0%BC",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "qwen-max",
+      "keyword": "千问 代码",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E5%8D%83%E9%97%AE%20%E4%BB%A3%E7%A0%81",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "qwen-max",
+      "keyword": "千问 写作",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E5%8D%83%E9%97%AE%20%E5%86%99%E4%BD%9C",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "qwen-max",
+      "keyword": "千问 推理",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E5%8D%83%E9%97%AE%20%E6%8E%A8%E7%90%86",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek",
+      "searchUrl": "https://www.zhihu.com/search?q=DeepSeek",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 好用",
+      "searchUrl": "https://www.zhihu.com/search?q=DeepSeek%20%E5%A5%BD%E7%94%A8",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 评测",
+      "searchUrl": "https://www.zhihu.com/search?q=DeepSeek%20%E8%AF%84%E6%B5%8B",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 对比",
+      "searchUrl": "https://www.zhihu.com/search?q=DeepSeek%20%E5%AF%B9%E6%AF%94",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 价格",
+      "searchUrl": "https://www.zhihu.com/search?q=DeepSeek%20%E4%BB%B7%E6%A0%BC",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 代码",
+      "searchUrl": "https://www.zhihu.com/search?q=DeepSeek%20%E4%BB%A3%E7%A0%81",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 写作",
+      "searchUrl": "https://www.zhihu.com/search?q=DeepSeek%20%E5%86%99%E4%BD%9C",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 推理",
+      "searchUrl": "https://www.zhihu.com/search?q=DeepSeek%20%E6%8E%A8%E7%90%86",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=DeepSeek",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 好用",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=DeepSeek%20%E5%A5%BD%E7%94%A8",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 评测",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=DeepSeek%20%E8%AF%84%E6%B5%8B",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 对比",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=DeepSeek%20%E5%AF%B9%E6%AF%94",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 价格",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=DeepSeek%20%E4%BB%B7%E6%A0%BC",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 代码",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=DeepSeek%20%E4%BB%A3%E7%A0%81",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 写作",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=DeepSeek%20%E5%86%99%E4%BD%9C",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 推理",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=DeepSeek%20%E6%8E%A8%E7%90%86",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek",
+      "searchUrl": "https://s.weibo.com/weibo?q=DeepSeek",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 好用",
+      "searchUrl": "https://s.weibo.com/weibo?q=DeepSeek%20%E5%A5%BD%E7%94%A8",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 评测",
+      "searchUrl": "https://s.weibo.com/weibo?q=DeepSeek%20%E8%AF%84%E6%B5%8B",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 对比",
+      "searchUrl": "https://s.weibo.com/weibo?q=DeepSeek%20%E5%AF%B9%E6%AF%94",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 价格",
+      "searchUrl": "https://s.weibo.com/weibo?q=DeepSeek%20%E4%BB%B7%E6%A0%BC",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 代码",
+      "searchUrl": "https://s.weibo.com/weibo?q=DeepSeek%20%E4%BB%A3%E7%A0%81",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 写作",
+      "searchUrl": "https://s.weibo.com/weibo?q=DeepSeek%20%E5%86%99%E4%BD%9C",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 推理",
+      "searchUrl": "https://s.weibo.com/weibo?q=DeepSeek%20%E6%8E%A8%E7%90%86",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek",
+      "searchUrl": "https://www.douyin.com/search/DeepSeek?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 好用",
+      "searchUrl": "https://www.douyin.com/search/DeepSeek%20%E5%A5%BD%E7%94%A8?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 评测",
+      "searchUrl": "https://www.douyin.com/search/DeepSeek%20%E8%AF%84%E6%B5%8B?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 对比",
+      "searchUrl": "https://www.douyin.com/search/DeepSeek%20%E5%AF%B9%E6%AF%94?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 价格",
+      "searchUrl": "https://www.douyin.com/search/DeepSeek%20%E4%BB%B7%E6%A0%BC?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 代码",
+      "searchUrl": "https://www.douyin.com/search/DeepSeek%20%E4%BB%A3%E7%A0%81?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 写作",
+      "searchUrl": "https://www.douyin.com/search/DeepSeek%20%E5%86%99%E4%BD%9C?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 推理",
+      "searchUrl": "https://www.douyin.com/search/DeepSeek%20%E6%8E%A8%E7%90%86?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek",
+      "searchUrl": "https://bbs.hupu.com/search?q=DeepSeek",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 好用",
+      "searchUrl": "https://bbs.hupu.com/search?q=DeepSeek%20%E5%A5%BD%E7%94%A8",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 评测",
+      "searchUrl": "https://bbs.hupu.com/search?q=DeepSeek%20%E8%AF%84%E6%B5%8B",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 对比",
+      "searchUrl": "https://bbs.hupu.com/search?q=DeepSeek%20%E5%AF%B9%E6%AF%94",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 价格",
+      "searchUrl": "https://bbs.hupu.com/search?q=DeepSeek%20%E4%BB%B7%E6%A0%BC",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 代码",
+      "searchUrl": "https://bbs.hupu.com/search?q=DeepSeek%20%E4%BB%A3%E7%A0%81",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 写作",
+      "searchUrl": "https://bbs.hupu.com/search?q=DeepSeek%20%E5%86%99%E4%BD%9C",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 推理",
+      "searchUrl": "https://bbs.hupu.com/search?q=DeepSeek%20%E6%8E%A8%E7%90%86",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=DeepSeek",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 好用",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=DeepSeek%20%E5%A5%BD%E7%94%A8",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 评测",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=DeepSeek%20%E8%AF%84%E6%B5%8B",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 对比",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=DeepSeek%20%E5%AF%B9%E6%AF%94",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 价格",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=DeepSeek%20%E4%BB%B7%E6%A0%BC",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 代码",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=DeepSeek%20%E4%BB%A3%E7%A0%81",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 写作",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=DeepSeek%20%E5%86%99%E4%BD%9C",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 推理",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=DeepSeek%20%E6%8E%A8%E7%90%86",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek",
+      "searchUrl": "https://search.bilibili.com/all?keyword=DeepSeek",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 好用",
+      "searchUrl": "https://search.bilibili.com/all?keyword=DeepSeek%20%E5%A5%BD%E7%94%A8",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 评测",
+      "searchUrl": "https://search.bilibili.com/all?keyword=DeepSeek%20%E8%AF%84%E6%B5%8B",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 对比",
+      "searchUrl": "https://search.bilibili.com/all?keyword=DeepSeek%20%E5%AF%B9%E6%AF%94",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 价格",
+      "searchUrl": "https://search.bilibili.com/all?keyword=DeepSeek%20%E4%BB%B7%E6%A0%BC",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 代码",
+      "searchUrl": "https://search.bilibili.com/all?keyword=DeepSeek%20%E4%BB%A3%E7%A0%81",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 写作",
+      "searchUrl": "https://search.bilibili.com/all?keyword=DeepSeek%20%E5%86%99%E4%BD%9C",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "deepseek-r1",
+      "keyword": "DeepSeek 推理",
+      "searchUrl": "https://search.bilibili.com/all?keyword=DeepSeek%20%E6%8E%A8%E7%90%86",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi",
+      "searchUrl": "https://www.zhihu.com/search?q=Kimi",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 好用",
+      "searchUrl": "https://www.zhihu.com/search?q=Kimi%20%E5%A5%BD%E7%94%A8",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 评测",
+      "searchUrl": "https://www.zhihu.com/search?q=Kimi%20%E8%AF%84%E6%B5%8B",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 对比",
+      "searchUrl": "https://www.zhihu.com/search?q=Kimi%20%E5%AF%B9%E6%AF%94",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 价格",
+      "searchUrl": "https://www.zhihu.com/search?q=Kimi%20%E4%BB%B7%E6%A0%BC",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 代码",
+      "searchUrl": "https://www.zhihu.com/search?q=Kimi%20%E4%BB%A3%E7%A0%81",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 写作",
+      "searchUrl": "https://www.zhihu.com/search?q=Kimi%20%E5%86%99%E4%BD%9C",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 推理",
+      "searchUrl": "https://www.zhihu.com/search?q=Kimi%20%E6%8E%A8%E7%90%86",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=Kimi",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 好用",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=Kimi%20%E5%A5%BD%E7%94%A8",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 评测",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=Kimi%20%E8%AF%84%E6%B5%8B",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 对比",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=Kimi%20%E5%AF%B9%E6%AF%94",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 价格",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=Kimi%20%E4%BB%B7%E6%A0%BC",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 代码",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=Kimi%20%E4%BB%A3%E7%A0%81",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 写作",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=Kimi%20%E5%86%99%E4%BD%9C",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 推理",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=Kimi%20%E6%8E%A8%E7%90%86",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi",
+      "searchUrl": "https://s.weibo.com/weibo?q=Kimi",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 好用",
+      "searchUrl": "https://s.weibo.com/weibo?q=Kimi%20%E5%A5%BD%E7%94%A8",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 评测",
+      "searchUrl": "https://s.weibo.com/weibo?q=Kimi%20%E8%AF%84%E6%B5%8B",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 对比",
+      "searchUrl": "https://s.weibo.com/weibo?q=Kimi%20%E5%AF%B9%E6%AF%94",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 价格",
+      "searchUrl": "https://s.weibo.com/weibo?q=Kimi%20%E4%BB%B7%E6%A0%BC",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 代码",
+      "searchUrl": "https://s.weibo.com/weibo?q=Kimi%20%E4%BB%A3%E7%A0%81",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 写作",
+      "searchUrl": "https://s.weibo.com/weibo?q=Kimi%20%E5%86%99%E4%BD%9C",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 推理",
+      "searchUrl": "https://s.weibo.com/weibo?q=Kimi%20%E6%8E%A8%E7%90%86",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi",
+      "searchUrl": "https://www.douyin.com/search/Kimi?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 好用",
+      "searchUrl": "https://www.douyin.com/search/Kimi%20%E5%A5%BD%E7%94%A8?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 评测",
+      "searchUrl": "https://www.douyin.com/search/Kimi%20%E8%AF%84%E6%B5%8B?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 对比",
+      "searchUrl": "https://www.douyin.com/search/Kimi%20%E5%AF%B9%E6%AF%94?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 价格",
+      "searchUrl": "https://www.douyin.com/search/Kimi%20%E4%BB%B7%E6%A0%BC?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 代码",
+      "searchUrl": "https://www.douyin.com/search/Kimi%20%E4%BB%A3%E7%A0%81?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 写作",
+      "searchUrl": "https://www.douyin.com/search/Kimi%20%E5%86%99%E4%BD%9C?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 推理",
+      "searchUrl": "https://www.douyin.com/search/Kimi%20%E6%8E%A8%E7%90%86?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi",
+      "searchUrl": "https://bbs.hupu.com/search?q=Kimi",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 好用",
+      "searchUrl": "https://bbs.hupu.com/search?q=Kimi%20%E5%A5%BD%E7%94%A8",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 评测",
+      "searchUrl": "https://bbs.hupu.com/search?q=Kimi%20%E8%AF%84%E6%B5%8B",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 对比",
+      "searchUrl": "https://bbs.hupu.com/search?q=Kimi%20%E5%AF%B9%E6%AF%94",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 价格",
+      "searchUrl": "https://bbs.hupu.com/search?q=Kimi%20%E4%BB%B7%E6%A0%BC",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 代码",
+      "searchUrl": "https://bbs.hupu.com/search?q=Kimi%20%E4%BB%A3%E7%A0%81",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 写作",
+      "searchUrl": "https://bbs.hupu.com/search?q=Kimi%20%E5%86%99%E4%BD%9C",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 推理",
+      "searchUrl": "https://bbs.hupu.com/search?q=Kimi%20%E6%8E%A8%E7%90%86",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=Kimi",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 好用",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=Kimi%20%E5%A5%BD%E7%94%A8",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 评测",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=Kimi%20%E8%AF%84%E6%B5%8B",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 对比",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=Kimi%20%E5%AF%B9%E6%AF%94",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 价格",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=Kimi%20%E4%BB%B7%E6%A0%BC",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 代码",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=Kimi%20%E4%BB%A3%E7%A0%81",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 写作",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=Kimi%20%E5%86%99%E4%BD%9C",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 推理",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=Kimi%20%E6%8E%A8%E7%90%86",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi",
+      "searchUrl": "https://search.bilibili.com/all?keyword=Kimi",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 评测",
+      "searchUrl": "https://search.bilibili.com/all?keyword=Kimi%20%E8%AF%84%E6%B5%8B",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 对比",
+      "searchUrl": "https://search.bilibili.com/all?keyword=Kimi%20%E5%AF%B9%E6%AF%94",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 价格",
+      "searchUrl": "https://search.bilibili.com/all?keyword=Kimi%20%E4%BB%B7%E6%A0%BC",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 代码",
+      "searchUrl": "https://search.bilibili.com/all?keyword=Kimi%20%E4%BB%A3%E7%A0%81",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 写作",
+      "searchUrl": "https://search.bilibili.com/all?keyword=Kimi%20%E5%86%99%E4%BD%9C",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "kimi-k2",
+      "keyword": "Kimi 推理",
+      "searchUrl": "https://search.bilibili.com/all?keyword=Kimi%20%E6%8E%A8%E7%90%86",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "doubao-pro",
+      "keyword": "豆包",
+      "searchUrl": "https://www.zhihu.com/search?q=%E8%B1%86%E5%8C%85",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 好用",
+      "searchUrl": "https://www.zhihu.com/search?q=%E8%B1%86%E5%8C%85%20%E5%A5%BD%E7%94%A8",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 评测",
+      "searchUrl": "https://www.zhihu.com/search?q=%E8%B1%86%E5%8C%85%20%E8%AF%84%E6%B5%8B",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 对比",
+      "searchUrl": "https://www.zhihu.com/search?q=%E8%B1%86%E5%8C%85%20%E5%AF%B9%E6%AF%94",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 价格",
+      "searchUrl": "https://www.zhihu.com/search?q=%E8%B1%86%E5%8C%85%20%E4%BB%B7%E6%A0%BC",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 代码",
+      "searchUrl": "https://www.zhihu.com/search?q=%E8%B1%86%E5%8C%85%20%E4%BB%A3%E7%A0%81",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 写作",
+      "searchUrl": "https://www.zhihu.com/search?q=%E8%B1%86%E5%8C%85%20%E5%86%99%E4%BD%9C",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 推理",
+      "searchUrl": "https://www.zhihu.com/search?q=%E8%B1%86%E5%8C%85%20%E6%8E%A8%E7%90%86",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "doubao-pro",
+      "keyword": "豆包",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E8%B1%86%E5%8C%85",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 好用",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E8%B1%86%E5%8C%85%20%E5%A5%BD%E7%94%A8",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 评测",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E8%B1%86%E5%8C%85%20%E8%AF%84%E6%B5%8B",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 对比",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E8%B1%86%E5%8C%85%20%E5%AF%B9%E6%AF%94",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 价格",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E8%B1%86%E5%8C%85%20%E4%BB%B7%E6%A0%BC",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 代码",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E8%B1%86%E5%8C%85%20%E4%BB%A3%E7%A0%81",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 写作",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E8%B1%86%E5%8C%85%20%E5%86%99%E4%BD%9C",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 推理",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E8%B1%86%E5%8C%85%20%E6%8E%A8%E7%90%86",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "doubao-pro",
+      "keyword": "豆包",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 好用",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%20%E5%A5%BD%E7%94%A8",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 评测",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%20%E8%AF%84%E6%B5%8B",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 对比",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%20%E5%AF%B9%E6%AF%94",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 价格",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%20%E4%BB%B7%E6%A0%BC",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 代码",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%20%E4%BB%A3%E7%A0%81",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 写作",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%20%E5%86%99%E4%BD%9C",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 推理",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E8%B1%86%E5%8C%85%20%E6%8E%A8%E7%90%86",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "doubao-pro",
+      "keyword": "豆包",
+      "searchUrl": "https://www.douyin.com/search/%E8%B1%86%E5%8C%85?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 好用",
+      "searchUrl": "https://www.douyin.com/search/%E8%B1%86%E5%8C%85%20%E5%A5%BD%E7%94%A8?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 评测",
+      "searchUrl": "https://www.douyin.com/search/%E8%B1%86%E5%8C%85%20%E8%AF%84%E6%B5%8B?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 对比",
+      "searchUrl": "https://www.douyin.com/search/%E8%B1%86%E5%8C%85%20%E5%AF%B9%E6%AF%94?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 价格",
+      "searchUrl": "https://www.douyin.com/search/%E8%B1%86%E5%8C%85%20%E4%BB%B7%E6%A0%BC?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 代码",
+      "searchUrl": "https://www.douyin.com/search/%E8%B1%86%E5%8C%85%20%E4%BB%A3%E7%A0%81?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 写作",
+      "searchUrl": "https://www.douyin.com/search/%E8%B1%86%E5%8C%85%20%E5%86%99%E4%BD%9C?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 推理",
+      "searchUrl": "https://www.douyin.com/search/%E8%B1%86%E5%8C%85%20%E6%8E%A8%E7%90%86?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "doubao-pro",
+      "keyword": "豆包",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E8%B1%86%E5%8C%85",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 好用",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E8%B1%86%E5%8C%85%20%E5%A5%BD%E7%94%A8",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 评测",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E8%B1%86%E5%8C%85%20%E8%AF%84%E6%B5%8B",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 对比",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E8%B1%86%E5%8C%85%20%E5%AF%B9%E6%AF%94",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 价格",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E8%B1%86%E5%8C%85%20%E4%BB%B7%E6%A0%BC",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 代码",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E8%B1%86%E5%8C%85%20%E4%BB%A3%E7%A0%81",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 写作",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E8%B1%86%E5%8C%85%20%E5%86%99%E4%BD%9C",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 推理",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E8%B1%86%E5%8C%85%20%E6%8E%A8%E7%90%86",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "doubao-pro",
+      "keyword": "豆包",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E8%B1%86%E5%8C%85",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 好用",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E8%B1%86%E5%8C%85%20%E5%A5%BD%E7%94%A8",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 评测",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E8%B1%86%E5%8C%85%20%E8%AF%84%E6%B5%8B",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 对比",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E8%B1%86%E5%8C%85%20%E5%AF%B9%E6%AF%94",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 价格",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E8%B1%86%E5%8C%85%20%E4%BB%B7%E6%A0%BC",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 代码",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E8%B1%86%E5%8C%85%20%E4%BB%A3%E7%A0%81",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 写作",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E8%B1%86%E5%8C%85%20%E5%86%99%E4%BD%9C",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 推理",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E8%B1%86%E5%8C%85%20%E6%8E%A8%E7%90%86",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "doubao-pro",
+      "keyword": "豆包",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E8%B1%86%E5%8C%85",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 好用",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E8%B1%86%E5%8C%85%20%E5%A5%BD%E7%94%A8",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 评测",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E8%B1%86%E5%8C%85%20%E8%AF%84%E6%B5%8B",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 对比",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E8%B1%86%E5%8C%85%20%E5%AF%B9%E6%AF%94",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 价格",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E8%B1%86%E5%8C%85%20%E4%BB%B7%E6%A0%BC",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 代码",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E8%B1%86%E5%8C%85%20%E4%BB%A3%E7%A0%81",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 写作",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E8%B1%86%E5%8C%85%20%E5%86%99%E4%BD%9C",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "doubao-pro",
+      "keyword": "豆包 推理",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E8%B1%86%E5%8C%85%20%E6%8E%A8%E7%90%86",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "ernie-4",
+      "keyword": "文心",
+      "searchUrl": "https://www.zhihu.com/search?q=%E6%96%87%E5%BF%83",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "ernie-4",
+      "keyword": "文心 好用",
+      "searchUrl": "https://www.zhihu.com/search?q=%E6%96%87%E5%BF%83%20%E5%A5%BD%E7%94%A8",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "ernie-4",
+      "keyword": "文心 评测",
+      "searchUrl": "https://www.zhihu.com/search?q=%E6%96%87%E5%BF%83%20%E8%AF%84%E6%B5%8B",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "ernie-4",
+      "keyword": "文心 对比",
+      "searchUrl": "https://www.zhihu.com/search?q=%E6%96%87%E5%BF%83%20%E5%AF%B9%E6%AF%94",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "ernie-4",
+      "keyword": "文心 价格",
+      "searchUrl": "https://www.zhihu.com/search?q=%E6%96%87%E5%BF%83%20%E4%BB%B7%E6%A0%BC",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "ernie-4",
+      "keyword": "文心 代码",
+      "searchUrl": "https://www.zhihu.com/search?q=%E6%96%87%E5%BF%83%20%E4%BB%A3%E7%A0%81",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "ernie-4",
+      "keyword": "文心 写作",
+      "searchUrl": "https://www.zhihu.com/search?q=%E6%96%87%E5%BF%83%20%E5%86%99%E4%BD%9C",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "ernie-4",
+      "keyword": "文心 推理",
+      "searchUrl": "https://www.zhihu.com/search?q=%E6%96%87%E5%BF%83%20%E6%8E%A8%E7%90%86",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "ernie-4",
+      "keyword": "文心",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E6%96%87%E5%BF%83",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "ernie-4",
+      "keyword": "文心 好用",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E6%96%87%E5%BF%83%20%E5%A5%BD%E7%94%A8",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "ernie-4",
+      "keyword": "文心 评测",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E6%96%87%E5%BF%83%20%E8%AF%84%E6%B5%8B",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "ernie-4",
+      "keyword": "文心 对比",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E6%96%87%E5%BF%83%20%E5%AF%B9%E6%AF%94",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "ernie-4",
+      "keyword": "文心 价格",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E6%96%87%E5%BF%83%20%E4%BB%B7%E6%A0%BC",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "ernie-4",
+      "keyword": "文心 代码",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E6%96%87%E5%BF%83%20%E4%BB%A3%E7%A0%81",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "ernie-4",
+      "keyword": "文心 写作",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E6%96%87%E5%BF%83%20%E5%86%99%E4%BD%9C",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "ernie-4",
+      "keyword": "文心 推理",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E6%96%87%E5%BF%83%20%E6%8E%A8%E7%90%86",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "ernie-4",
+      "keyword": "文心",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E6%96%87%E5%BF%83",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "ernie-4",
+      "keyword": "文心 好用",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E6%96%87%E5%BF%83%20%E5%A5%BD%E7%94%A8",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "ernie-4",
+      "keyword": "文心 评测",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E6%96%87%E5%BF%83%20%E8%AF%84%E6%B5%8B",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "ernie-4",
+      "keyword": "文心 对比",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E6%96%87%E5%BF%83%20%E5%AF%B9%E6%AF%94",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "ernie-4",
+      "keyword": "文心 价格",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E6%96%87%E5%BF%83%20%E4%BB%B7%E6%A0%BC",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "ernie-4",
+      "keyword": "文心 代码",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E6%96%87%E5%BF%83%20%E4%BB%A3%E7%A0%81",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "ernie-4",
+      "keyword": "文心 写作",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E6%96%87%E5%BF%83%20%E5%86%99%E4%BD%9C",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "ernie-4",
+      "keyword": "文心 推理",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E6%96%87%E5%BF%83%20%E6%8E%A8%E7%90%86",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "ernie-4",
+      "keyword": "文心",
+      "searchUrl": "https://www.douyin.com/search/%E6%96%87%E5%BF%83?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "ernie-4",
+      "keyword": "文心 好用",
+      "searchUrl": "https://www.douyin.com/search/%E6%96%87%E5%BF%83%20%E5%A5%BD%E7%94%A8?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "ernie-4",
+      "keyword": "文心 评测",
+      "searchUrl": "https://www.douyin.com/search/%E6%96%87%E5%BF%83%20%E8%AF%84%E6%B5%8B?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "ernie-4",
+      "keyword": "文心 对比",
+      "searchUrl": "https://www.douyin.com/search/%E6%96%87%E5%BF%83%20%E5%AF%B9%E6%AF%94?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "ernie-4",
+      "keyword": "文心 价格",
+      "searchUrl": "https://www.douyin.com/search/%E6%96%87%E5%BF%83%20%E4%BB%B7%E6%A0%BC?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "ernie-4",
+      "keyword": "文心 代码",
+      "searchUrl": "https://www.douyin.com/search/%E6%96%87%E5%BF%83%20%E4%BB%A3%E7%A0%81?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "ernie-4",
+      "keyword": "文心 写作",
+      "searchUrl": "https://www.douyin.com/search/%E6%96%87%E5%BF%83%20%E5%86%99%E4%BD%9C?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "ernie-4",
+      "keyword": "文心 推理",
+      "searchUrl": "https://www.douyin.com/search/%E6%96%87%E5%BF%83%20%E6%8E%A8%E7%90%86?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "ernie-4",
+      "keyword": "文心",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E6%96%87%E5%BF%83",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "ernie-4",
+      "keyword": "文心 好用",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E6%96%87%E5%BF%83%20%E5%A5%BD%E7%94%A8",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "ernie-4",
+      "keyword": "文心 评测",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E6%96%87%E5%BF%83%20%E8%AF%84%E6%B5%8B",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "ernie-4",
+      "keyword": "文心 对比",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E6%96%87%E5%BF%83%20%E5%AF%B9%E6%AF%94",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "ernie-4",
+      "keyword": "文心 价格",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E6%96%87%E5%BF%83%20%E4%BB%B7%E6%A0%BC",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "ernie-4",
+      "keyword": "文心 代码",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E6%96%87%E5%BF%83%20%E4%BB%A3%E7%A0%81",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "ernie-4",
+      "keyword": "文心 写作",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E6%96%87%E5%BF%83%20%E5%86%99%E4%BD%9C",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "ernie-4",
+      "keyword": "文心 推理",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E6%96%87%E5%BF%83%20%E6%8E%A8%E7%90%86",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "ernie-4",
+      "keyword": "文心",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E6%96%87%E5%BF%83",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "ernie-4",
+      "keyword": "文心 好用",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E6%96%87%E5%BF%83%20%E5%A5%BD%E7%94%A8",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "ernie-4",
+      "keyword": "文心 评测",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E6%96%87%E5%BF%83%20%E8%AF%84%E6%B5%8B",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "ernie-4",
+      "keyword": "文心 对比",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E6%96%87%E5%BF%83%20%E5%AF%B9%E6%AF%94",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "ernie-4",
+      "keyword": "文心 价格",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E6%96%87%E5%BF%83%20%E4%BB%B7%E6%A0%BC",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "ernie-4",
+      "keyword": "文心 代码",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E6%96%87%E5%BF%83%20%E4%BB%A3%E7%A0%81",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "ernie-4",
+      "keyword": "文心 写作",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E6%96%87%E5%BF%83%20%E5%86%99%E4%BD%9C",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "ernie-4",
+      "keyword": "文心 推理",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E6%96%87%E5%BF%83%20%E6%8E%A8%E7%90%86",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "ernie-4",
+      "keyword": "文心",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E6%96%87%E5%BF%83",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "ernie-4",
+      "keyword": "文心 好用",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E6%96%87%E5%BF%83%20%E5%A5%BD%E7%94%A8",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "ernie-4",
+      "keyword": "文心 评测",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E6%96%87%E5%BF%83%20%E8%AF%84%E6%B5%8B",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "ernie-4",
+      "keyword": "文心 对比",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E6%96%87%E5%BF%83%20%E5%AF%B9%E6%AF%94",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "ernie-4",
+      "keyword": "文心 价格",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E6%96%87%E5%BF%83%20%E4%BB%B7%E6%A0%BC",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "ernie-4",
+      "keyword": "文心 代码",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E6%96%87%E5%BF%83%20%E4%BB%A3%E7%A0%81",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "ernie-4",
+      "keyword": "文心 写作",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E6%96%87%E5%BF%83%20%E5%86%99%E4%BD%9C",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "ernie-4",
+      "keyword": "文心 推理",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E6%96%87%E5%BF%83%20%E6%8E%A8%E7%90%86",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "glm-4",
+      "keyword": "智谱",
+      "searchUrl": "https://www.zhihu.com/search?q=%E6%99%BA%E8%B0%B1",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "glm-4",
+      "keyword": "智谱 好用",
+      "searchUrl": "https://www.zhihu.com/search?q=%E6%99%BA%E8%B0%B1%20%E5%A5%BD%E7%94%A8",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "glm-4",
+      "keyword": "智谱 评测",
+      "searchUrl": "https://www.zhihu.com/search?q=%E6%99%BA%E8%B0%B1%20%E8%AF%84%E6%B5%8B",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "glm-4",
+      "keyword": "智谱 对比",
+      "searchUrl": "https://www.zhihu.com/search?q=%E6%99%BA%E8%B0%B1%20%E5%AF%B9%E6%AF%94",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "glm-4",
+      "keyword": "智谱 价格",
+      "searchUrl": "https://www.zhihu.com/search?q=%E6%99%BA%E8%B0%B1%20%E4%BB%B7%E6%A0%BC",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "glm-4",
+      "keyword": "智谱 代码",
+      "searchUrl": "https://www.zhihu.com/search?q=%E6%99%BA%E8%B0%B1%20%E4%BB%A3%E7%A0%81",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "glm-4",
+      "keyword": "智谱 写作",
+      "searchUrl": "https://www.zhihu.com/search?q=%E6%99%BA%E8%B0%B1%20%E5%86%99%E4%BD%9C",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "glm-4",
+      "keyword": "智谱 推理",
+      "searchUrl": "https://www.zhihu.com/search?q=%E6%99%BA%E8%B0%B1%20%E6%8E%A8%E7%90%86",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "glm-4",
+      "keyword": "智谱",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E6%99%BA%E8%B0%B1",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "glm-4",
+      "keyword": "智谱 好用",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E6%99%BA%E8%B0%B1%20%E5%A5%BD%E7%94%A8",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "glm-4",
+      "keyword": "智谱 评测",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E6%99%BA%E8%B0%B1%20%E8%AF%84%E6%B5%8B",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "glm-4",
+      "keyword": "智谱 对比",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E6%99%BA%E8%B0%B1%20%E5%AF%B9%E6%AF%94",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "glm-4",
+      "keyword": "智谱 价格",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E6%99%BA%E8%B0%B1%20%E4%BB%B7%E6%A0%BC",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "glm-4",
+      "keyword": "智谱 代码",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E6%99%BA%E8%B0%B1%20%E4%BB%A3%E7%A0%81",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "glm-4",
+      "keyword": "智谱 写作",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E6%99%BA%E8%B0%B1%20%E5%86%99%E4%BD%9C",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "glm-4",
+      "keyword": "智谱 推理",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E6%99%BA%E8%B0%B1%20%E6%8E%A8%E7%90%86",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "glm-4",
+      "keyword": "智谱",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E6%99%BA%E8%B0%B1",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "glm-4",
+      "keyword": "智谱 好用",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E6%99%BA%E8%B0%B1%20%E5%A5%BD%E7%94%A8",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "glm-4",
+      "keyword": "智谱 评测",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E6%99%BA%E8%B0%B1%20%E8%AF%84%E6%B5%8B",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "glm-4",
+      "keyword": "智谱 对比",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E6%99%BA%E8%B0%B1%20%E5%AF%B9%E6%AF%94",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "glm-4",
+      "keyword": "智谱 价格",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E6%99%BA%E8%B0%B1%20%E4%BB%B7%E6%A0%BC",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "glm-4",
+      "keyword": "智谱 代码",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E6%99%BA%E8%B0%B1%20%E4%BB%A3%E7%A0%81",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "glm-4",
+      "keyword": "智谱 写作",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E6%99%BA%E8%B0%B1%20%E5%86%99%E4%BD%9C",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "glm-4",
+      "keyword": "智谱 推理",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E6%99%BA%E8%B0%B1%20%E6%8E%A8%E7%90%86",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "glm-4",
+      "keyword": "智谱",
+      "searchUrl": "https://www.douyin.com/search/%E6%99%BA%E8%B0%B1?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "glm-4",
+      "keyword": "智谱 好用",
+      "searchUrl": "https://www.douyin.com/search/%E6%99%BA%E8%B0%B1%20%E5%A5%BD%E7%94%A8?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "glm-4",
+      "keyword": "智谱 评测",
+      "searchUrl": "https://www.douyin.com/search/%E6%99%BA%E8%B0%B1%20%E8%AF%84%E6%B5%8B?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "glm-4",
+      "keyword": "智谱 对比",
+      "searchUrl": "https://www.douyin.com/search/%E6%99%BA%E8%B0%B1%20%E5%AF%B9%E6%AF%94?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "glm-4",
+      "keyword": "智谱 价格",
+      "searchUrl": "https://www.douyin.com/search/%E6%99%BA%E8%B0%B1%20%E4%BB%B7%E6%A0%BC?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "glm-4",
+      "keyword": "智谱 代码",
+      "searchUrl": "https://www.douyin.com/search/%E6%99%BA%E8%B0%B1%20%E4%BB%A3%E7%A0%81?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "glm-4",
+      "keyword": "智谱 写作",
+      "searchUrl": "https://www.douyin.com/search/%E6%99%BA%E8%B0%B1%20%E5%86%99%E4%BD%9C?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "glm-4",
+      "keyword": "智谱 推理",
+      "searchUrl": "https://www.douyin.com/search/%E6%99%BA%E8%B0%B1%20%E6%8E%A8%E7%90%86?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "glm-4",
+      "keyword": "智谱",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E6%99%BA%E8%B0%B1",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "glm-4",
+      "keyword": "智谱 好用",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E6%99%BA%E8%B0%B1%20%E5%A5%BD%E7%94%A8",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "glm-4",
+      "keyword": "智谱 评测",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E6%99%BA%E8%B0%B1%20%E8%AF%84%E6%B5%8B",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "glm-4",
+      "keyword": "智谱 对比",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E6%99%BA%E8%B0%B1%20%E5%AF%B9%E6%AF%94",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "glm-4",
+      "keyword": "智谱 价格",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E6%99%BA%E8%B0%B1%20%E4%BB%B7%E6%A0%BC",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "glm-4",
+      "keyword": "智谱 代码",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E6%99%BA%E8%B0%B1%20%E4%BB%A3%E7%A0%81",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "glm-4",
+      "keyword": "智谱 写作",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E6%99%BA%E8%B0%B1%20%E5%86%99%E4%BD%9C",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "glm-4",
+      "keyword": "智谱 推理",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E6%99%BA%E8%B0%B1%20%E6%8E%A8%E7%90%86",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "glm-4",
+      "keyword": "智谱",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E6%99%BA%E8%B0%B1",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "glm-4",
+      "keyword": "智谱 好用",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E6%99%BA%E8%B0%B1%20%E5%A5%BD%E7%94%A8",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "glm-4",
+      "keyword": "智谱 评测",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E6%99%BA%E8%B0%B1%20%E8%AF%84%E6%B5%8B",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "glm-4",
+      "keyword": "智谱 对比",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E6%99%BA%E8%B0%B1%20%E5%AF%B9%E6%AF%94",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "glm-4",
+      "keyword": "智谱 价格",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E6%99%BA%E8%B0%B1%20%E4%BB%B7%E6%A0%BC",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "glm-4",
+      "keyword": "智谱 代码",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E6%99%BA%E8%B0%B1%20%E4%BB%A3%E7%A0%81",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "glm-4",
+      "keyword": "智谱 写作",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E6%99%BA%E8%B0%B1%20%E5%86%99%E4%BD%9C",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "glm-4",
+      "keyword": "智谱 推理",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E6%99%BA%E8%B0%B1%20%E6%8E%A8%E7%90%86",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "glm-4",
+      "keyword": "智谱",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E6%99%BA%E8%B0%B1",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "glm-4",
+      "keyword": "智谱 好用",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E6%99%BA%E8%B0%B1%20%E5%A5%BD%E7%94%A8",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "glm-4",
+      "keyword": "智谱 评测",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E6%99%BA%E8%B0%B1%20%E8%AF%84%E6%B5%8B",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "glm-4",
+      "keyword": "智谱 对比",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E6%99%BA%E8%B0%B1%20%E5%AF%B9%E6%AF%94",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "glm-4",
+      "keyword": "智谱 价格",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E6%99%BA%E8%B0%B1%20%E4%BB%B7%E6%A0%BC",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "glm-4",
+      "keyword": "智谱 代码",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E6%99%BA%E8%B0%B1%20%E4%BB%A3%E7%A0%81",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "glm-4",
+      "keyword": "智谱 写作",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E6%99%BA%E8%B0%B1%20%E5%86%99%E4%BD%9C",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "glm-4",
+      "keyword": "智谱 推理",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E6%99%BA%E8%B0%B1%20%E6%8E%A8%E7%90%86",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元",
+      "searchUrl": "https://www.zhihu.com/search?q=%E6%B7%B7%E5%85%83",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 好用",
+      "searchUrl": "https://www.zhihu.com/search?q=%E6%B7%B7%E5%85%83%20%E5%A5%BD%E7%94%A8",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 评测",
+      "searchUrl": "https://www.zhihu.com/search?q=%E6%B7%B7%E5%85%83%20%E8%AF%84%E6%B5%8B",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 对比",
+      "searchUrl": "https://www.zhihu.com/search?q=%E6%B7%B7%E5%85%83%20%E5%AF%B9%E6%AF%94",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 价格",
+      "searchUrl": "https://www.zhihu.com/search?q=%E6%B7%B7%E5%85%83%20%E4%BB%B7%E6%A0%BC",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 代码",
+      "searchUrl": "https://www.zhihu.com/search?q=%E6%B7%B7%E5%85%83%20%E4%BB%A3%E7%A0%81",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 写作",
+      "searchUrl": "https://www.zhihu.com/search?q=%E6%B7%B7%E5%85%83%20%E5%86%99%E4%BD%9C",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 推理",
+      "searchUrl": "https://www.zhihu.com/search?q=%E6%B7%B7%E5%85%83%20%E6%8E%A8%E7%90%86",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E6%B7%B7%E5%85%83",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 好用",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E6%B7%B7%E5%85%83%20%E5%A5%BD%E7%94%A8",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 评测",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E6%B7%B7%E5%85%83%20%E8%AF%84%E6%B5%8B",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 对比",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E6%B7%B7%E5%85%83%20%E5%AF%B9%E6%AF%94",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 价格",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E6%B7%B7%E5%85%83%20%E4%BB%B7%E6%A0%BC",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 代码",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E6%B7%B7%E5%85%83%20%E4%BB%A3%E7%A0%81",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 写作",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E6%B7%B7%E5%85%83%20%E5%86%99%E4%BD%9C",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 推理",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E6%B7%B7%E5%85%83%20%E6%8E%A8%E7%90%86",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E6%B7%B7%E5%85%83",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 好用",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E6%B7%B7%E5%85%83%20%E5%A5%BD%E7%94%A8",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 评测",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E6%B7%B7%E5%85%83%20%E8%AF%84%E6%B5%8B",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 对比",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E6%B7%B7%E5%85%83%20%E5%AF%B9%E6%AF%94",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 价格",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E6%B7%B7%E5%85%83%20%E4%BB%B7%E6%A0%BC",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 代码",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E6%B7%B7%E5%85%83%20%E4%BB%A3%E7%A0%81",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 写作",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E6%B7%B7%E5%85%83%20%E5%86%99%E4%BD%9C",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 推理",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E6%B7%B7%E5%85%83%20%E6%8E%A8%E7%90%86",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元",
+      "searchUrl": "https://www.douyin.com/search/%E6%B7%B7%E5%85%83?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 好用",
+      "searchUrl": "https://www.douyin.com/search/%E6%B7%B7%E5%85%83%20%E5%A5%BD%E7%94%A8?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 评测",
+      "searchUrl": "https://www.douyin.com/search/%E6%B7%B7%E5%85%83%20%E8%AF%84%E6%B5%8B?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 对比",
+      "searchUrl": "https://www.douyin.com/search/%E6%B7%B7%E5%85%83%20%E5%AF%B9%E6%AF%94?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 价格",
+      "searchUrl": "https://www.douyin.com/search/%E6%B7%B7%E5%85%83%20%E4%BB%B7%E6%A0%BC?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 代码",
+      "searchUrl": "https://www.douyin.com/search/%E6%B7%B7%E5%85%83%20%E4%BB%A3%E7%A0%81?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 写作",
+      "searchUrl": "https://www.douyin.com/search/%E6%B7%B7%E5%85%83%20%E5%86%99%E4%BD%9C?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 推理",
+      "searchUrl": "https://www.douyin.com/search/%E6%B7%B7%E5%85%83%20%E6%8E%A8%E7%90%86?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E6%B7%B7%E5%85%83",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 好用",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E6%B7%B7%E5%85%83%20%E5%A5%BD%E7%94%A8",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 评测",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E6%B7%B7%E5%85%83%20%E8%AF%84%E6%B5%8B",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 对比",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E6%B7%B7%E5%85%83%20%E5%AF%B9%E6%AF%94",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 价格",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E6%B7%B7%E5%85%83%20%E4%BB%B7%E6%A0%BC",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 代码",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E6%B7%B7%E5%85%83%20%E4%BB%A3%E7%A0%81",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 写作",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E6%B7%B7%E5%85%83%20%E5%86%99%E4%BD%9C",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 推理",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E6%B7%B7%E5%85%83%20%E6%8E%A8%E7%90%86",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E6%B7%B7%E5%85%83",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 好用",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E6%B7%B7%E5%85%83%20%E5%A5%BD%E7%94%A8",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 评测",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E6%B7%B7%E5%85%83%20%E8%AF%84%E6%B5%8B",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 对比",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E6%B7%B7%E5%85%83%20%E5%AF%B9%E6%AF%94",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 价格",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E6%B7%B7%E5%85%83%20%E4%BB%B7%E6%A0%BC",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 代码",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E6%B7%B7%E5%85%83%20%E4%BB%A3%E7%A0%81",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 写作",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E6%B7%B7%E5%85%83%20%E5%86%99%E4%BD%9C",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 推理",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E6%B7%B7%E5%85%83%20%E6%8E%A8%E7%90%86",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E6%B7%B7%E5%85%83",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 好用",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E6%B7%B7%E5%85%83%20%E5%A5%BD%E7%94%A8",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 评测",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E6%B7%B7%E5%85%83%20%E8%AF%84%E6%B5%8B",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 对比",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E6%B7%B7%E5%85%83%20%E5%AF%B9%E6%AF%94",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 价格",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E6%B7%B7%E5%85%83%20%E4%BB%B7%E6%A0%BC",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 代码",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E6%B7%B7%E5%85%83%20%E4%BB%A3%E7%A0%81",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 写作",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E6%B7%B7%E5%85%83%20%E5%86%99%E4%BD%9C",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "hunyuan-turbos",
+      "keyword": "混元 推理",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E6%B7%B7%E5%85%83%20%E6%8E%A8%E7%90%86",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax",
+      "searchUrl": "https://www.zhihu.com/search?q=MiniMax",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 好用",
+      "searchUrl": "https://www.zhihu.com/search?q=MiniMax%20%E5%A5%BD%E7%94%A8",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 评测",
+      "searchUrl": "https://www.zhihu.com/search?q=MiniMax%20%E8%AF%84%E6%B5%8B",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 对比",
+      "searchUrl": "https://www.zhihu.com/search?q=MiniMax%20%E5%AF%B9%E6%AF%94",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 价格",
+      "searchUrl": "https://www.zhihu.com/search?q=MiniMax%20%E4%BB%B7%E6%A0%BC",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 代码",
+      "searchUrl": "https://www.zhihu.com/search?q=MiniMax%20%E4%BB%A3%E7%A0%81",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 写作",
+      "searchUrl": "https://www.zhihu.com/search?q=MiniMax%20%E5%86%99%E4%BD%9C",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 推理",
+      "searchUrl": "https://www.zhihu.com/search?q=MiniMax%20%E6%8E%A8%E7%90%86",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=MiniMax",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 好用",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=MiniMax%20%E5%A5%BD%E7%94%A8",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 评测",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=MiniMax%20%E8%AF%84%E6%B5%8B",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 对比",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=MiniMax%20%E5%AF%B9%E6%AF%94",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 价格",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=MiniMax%20%E4%BB%B7%E6%A0%BC",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 代码",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=MiniMax%20%E4%BB%A3%E7%A0%81",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 写作",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=MiniMax%20%E5%86%99%E4%BD%9C",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 推理",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=MiniMax%20%E6%8E%A8%E7%90%86",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax",
+      "searchUrl": "https://s.weibo.com/weibo?q=MiniMax",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 好用",
+      "searchUrl": "https://s.weibo.com/weibo?q=MiniMax%20%E5%A5%BD%E7%94%A8",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 评测",
+      "searchUrl": "https://s.weibo.com/weibo?q=MiniMax%20%E8%AF%84%E6%B5%8B",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 对比",
+      "searchUrl": "https://s.weibo.com/weibo?q=MiniMax%20%E5%AF%B9%E6%AF%94",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 价格",
+      "searchUrl": "https://s.weibo.com/weibo?q=MiniMax%20%E4%BB%B7%E6%A0%BC",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 代码",
+      "searchUrl": "https://s.weibo.com/weibo?q=MiniMax%20%E4%BB%A3%E7%A0%81",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 写作",
+      "searchUrl": "https://s.weibo.com/weibo?q=MiniMax%20%E5%86%99%E4%BD%9C",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 推理",
+      "searchUrl": "https://s.weibo.com/weibo?q=MiniMax%20%E6%8E%A8%E7%90%86",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax",
+      "searchUrl": "https://www.douyin.com/search/MiniMax?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 好用",
+      "searchUrl": "https://www.douyin.com/search/MiniMax%20%E5%A5%BD%E7%94%A8?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 评测",
+      "searchUrl": "https://www.douyin.com/search/MiniMax%20%E8%AF%84%E6%B5%8B?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 对比",
+      "searchUrl": "https://www.douyin.com/search/MiniMax%20%E5%AF%B9%E6%AF%94?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 价格",
+      "searchUrl": "https://www.douyin.com/search/MiniMax%20%E4%BB%B7%E6%A0%BC?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 代码",
+      "searchUrl": "https://www.douyin.com/search/MiniMax%20%E4%BB%A3%E7%A0%81?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 写作",
+      "searchUrl": "https://www.douyin.com/search/MiniMax%20%E5%86%99%E4%BD%9C?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 推理",
+      "searchUrl": "https://www.douyin.com/search/MiniMax%20%E6%8E%A8%E7%90%86?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax",
+      "searchUrl": "https://bbs.hupu.com/search?q=MiniMax",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 好用",
+      "searchUrl": "https://bbs.hupu.com/search?q=MiniMax%20%E5%A5%BD%E7%94%A8",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 评测",
+      "searchUrl": "https://bbs.hupu.com/search?q=MiniMax%20%E8%AF%84%E6%B5%8B",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 对比",
+      "searchUrl": "https://bbs.hupu.com/search?q=MiniMax%20%E5%AF%B9%E6%AF%94",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 价格",
+      "searchUrl": "https://bbs.hupu.com/search?q=MiniMax%20%E4%BB%B7%E6%A0%BC",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 代码",
+      "searchUrl": "https://bbs.hupu.com/search?q=MiniMax%20%E4%BB%A3%E7%A0%81",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 写作",
+      "searchUrl": "https://bbs.hupu.com/search?q=MiniMax%20%E5%86%99%E4%BD%9C",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 推理",
+      "searchUrl": "https://bbs.hupu.com/search?q=MiniMax%20%E6%8E%A8%E7%90%86",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=MiniMax",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 好用",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=MiniMax%20%E5%A5%BD%E7%94%A8",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 评测",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=MiniMax%20%E8%AF%84%E6%B5%8B",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 对比",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=MiniMax%20%E5%AF%B9%E6%AF%94",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 价格",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=MiniMax%20%E4%BB%B7%E6%A0%BC",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 代码",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=MiniMax%20%E4%BB%A3%E7%A0%81",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 写作",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=MiniMax%20%E5%86%99%E4%BD%9C",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 推理",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=MiniMax%20%E6%8E%A8%E7%90%86",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax",
+      "searchUrl": "https://search.bilibili.com/all?keyword=MiniMax",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 好用",
+      "searchUrl": "https://search.bilibili.com/all?keyword=MiniMax%20%E5%A5%BD%E7%94%A8",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 评测",
+      "searchUrl": "https://search.bilibili.com/all?keyword=MiniMax%20%E8%AF%84%E6%B5%8B",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 对比",
+      "searchUrl": "https://search.bilibili.com/all?keyword=MiniMax%20%E5%AF%B9%E6%AF%94",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 价格",
+      "searchUrl": "https://search.bilibili.com/all?keyword=MiniMax%20%E4%BB%B7%E6%A0%BC",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 代码",
+      "searchUrl": "https://search.bilibili.com/all?keyword=MiniMax%20%E4%BB%A3%E7%A0%81",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 写作",
+      "searchUrl": "https://search.bilibili.com/all?keyword=MiniMax%20%E5%86%99%E4%BD%9C",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "minimax-abab",
+      "keyword": "MiniMax 推理",
+      "searchUrl": "https://search.bilibili.com/all?keyword=MiniMax%20%E6%8E%A8%E7%90%86",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "baichuan-4",
+      "keyword": "百川",
+      "searchUrl": "https://www.zhihu.com/search?q=%E7%99%BE%E5%B7%9D",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "baichuan-4",
+      "keyword": "百川 好用",
+      "searchUrl": "https://www.zhihu.com/search?q=%E7%99%BE%E5%B7%9D%20%E5%A5%BD%E7%94%A8",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "baichuan-4",
+      "keyword": "百川 评测",
+      "searchUrl": "https://www.zhihu.com/search?q=%E7%99%BE%E5%B7%9D%20%E8%AF%84%E6%B5%8B",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "baichuan-4",
+      "keyword": "百川 对比",
+      "searchUrl": "https://www.zhihu.com/search?q=%E7%99%BE%E5%B7%9D%20%E5%AF%B9%E6%AF%94",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "baichuan-4",
+      "keyword": "百川 价格",
+      "searchUrl": "https://www.zhihu.com/search?q=%E7%99%BE%E5%B7%9D%20%E4%BB%B7%E6%A0%BC",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "baichuan-4",
+      "keyword": "百川 代码",
+      "searchUrl": "https://www.zhihu.com/search?q=%E7%99%BE%E5%B7%9D%20%E4%BB%A3%E7%A0%81",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "baichuan-4",
+      "keyword": "百川 写作",
+      "searchUrl": "https://www.zhihu.com/search?q=%E7%99%BE%E5%B7%9D%20%E5%86%99%E4%BD%9C",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "baichuan-4",
+      "keyword": "百川 推理",
+      "searchUrl": "https://www.zhihu.com/search?q=%E7%99%BE%E5%B7%9D%20%E6%8E%A8%E7%90%86",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "baichuan-4",
+      "keyword": "百川",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E7%99%BE%E5%B7%9D",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "baichuan-4",
+      "keyword": "百川 好用",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E7%99%BE%E5%B7%9D%20%E5%A5%BD%E7%94%A8",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "baichuan-4",
+      "keyword": "百川 评测",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E7%99%BE%E5%B7%9D%20%E8%AF%84%E6%B5%8B",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "baichuan-4",
+      "keyword": "百川 对比",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E7%99%BE%E5%B7%9D%20%E5%AF%B9%E6%AF%94",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "baichuan-4",
+      "keyword": "百川 价格",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E7%99%BE%E5%B7%9D%20%E4%BB%B7%E6%A0%BC",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "baichuan-4",
+      "keyword": "百川 代码",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E7%99%BE%E5%B7%9D%20%E4%BB%A3%E7%A0%81",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "baichuan-4",
+      "keyword": "百川 写作",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E7%99%BE%E5%B7%9D%20%E5%86%99%E4%BD%9C",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "baichuan-4",
+      "keyword": "百川 推理",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E7%99%BE%E5%B7%9D%20%E6%8E%A8%E7%90%86",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "baichuan-4",
+      "keyword": "百川",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E7%99%BE%E5%B7%9D",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "baichuan-4",
+      "keyword": "百川 好用",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E7%99%BE%E5%B7%9D%20%E5%A5%BD%E7%94%A8",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "baichuan-4",
+      "keyword": "百川 评测",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E7%99%BE%E5%B7%9D%20%E8%AF%84%E6%B5%8B",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "baichuan-4",
+      "keyword": "百川 对比",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E7%99%BE%E5%B7%9D%20%E5%AF%B9%E6%AF%94",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "baichuan-4",
+      "keyword": "百川 价格",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E7%99%BE%E5%B7%9D%20%E4%BB%B7%E6%A0%BC",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "baichuan-4",
+      "keyword": "百川 代码",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E7%99%BE%E5%B7%9D%20%E4%BB%A3%E7%A0%81",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "baichuan-4",
+      "keyword": "百川 写作",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E7%99%BE%E5%B7%9D%20%E5%86%99%E4%BD%9C",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "baichuan-4",
+      "keyword": "百川 推理",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E7%99%BE%E5%B7%9D%20%E6%8E%A8%E7%90%86",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "baichuan-4",
+      "keyword": "百川",
+      "searchUrl": "https://www.douyin.com/search/%E7%99%BE%E5%B7%9D?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "baichuan-4",
+      "keyword": "百川 好用",
+      "searchUrl": "https://www.douyin.com/search/%E7%99%BE%E5%B7%9D%20%E5%A5%BD%E7%94%A8?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "baichuan-4",
+      "keyword": "百川 评测",
+      "searchUrl": "https://www.douyin.com/search/%E7%99%BE%E5%B7%9D%20%E8%AF%84%E6%B5%8B?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "baichuan-4",
+      "keyword": "百川 对比",
+      "searchUrl": "https://www.douyin.com/search/%E7%99%BE%E5%B7%9D%20%E5%AF%B9%E6%AF%94?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "baichuan-4",
+      "keyword": "百川 价格",
+      "searchUrl": "https://www.douyin.com/search/%E7%99%BE%E5%B7%9D%20%E4%BB%B7%E6%A0%BC?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "baichuan-4",
+      "keyword": "百川 代码",
+      "searchUrl": "https://www.douyin.com/search/%E7%99%BE%E5%B7%9D%20%E4%BB%A3%E7%A0%81?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "baichuan-4",
+      "keyword": "百川 写作",
+      "searchUrl": "https://www.douyin.com/search/%E7%99%BE%E5%B7%9D%20%E5%86%99%E4%BD%9C?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "baichuan-4",
+      "keyword": "百川 推理",
+      "searchUrl": "https://www.douyin.com/search/%E7%99%BE%E5%B7%9D%20%E6%8E%A8%E7%90%86?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "baichuan-4",
+      "keyword": "百川",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E7%99%BE%E5%B7%9D",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "baichuan-4",
+      "keyword": "百川 好用",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E7%99%BE%E5%B7%9D%20%E5%A5%BD%E7%94%A8",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "baichuan-4",
+      "keyword": "百川 评测",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E7%99%BE%E5%B7%9D%20%E8%AF%84%E6%B5%8B",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "baichuan-4",
+      "keyword": "百川 对比",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E7%99%BE%E5%B7%9D%20%E5%AF%B9%E6%AF%94",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "baichuan-4",
+      "keyword": "百川 价格",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E7%99%BE%E5%B7%9D%20%E4%BB%B7%E6%A0%BC",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "baichuan-4",
+      "keyword": "百川 代码",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E7%99%BE%E5%B7%9D%20%E4%BB%A3%E7%A0%81",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "baichuan-4",
+      "keyword": "百川 写作",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E7%99%BE%E5%B7%9D%20%E5%86%99%E4%BD%9C",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "baichuan-4",
+      "keyword": "百川 推理",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E7%99%BE%E5%B7%9D%20%E6%8E%A8%E7%90%86",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "baichuan-4",
+      "keyword": "百川",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E7%99%BE%E5%B7%9D",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "baichuan-4",
+      "keyword": "百川 好用",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E7%99%BE%E5%B7%9D%20%E5%A5%BD%E7%94%A8",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "baichuan-4",
+      "keyword": "百川 评测",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E7%99%BE%E5%B7%9D%20%E8%AF%84%E6%B5%8B",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "baichuan-4",
+      "keyword": "百川 对比",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E7%99%BE%E5%B7%9D%20%E5%AF%B9%E6%AF%94",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "baichuan-4",
+      "keyword": "百川 价格",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E7%99%BE%E5%B7%9D%20%E4%BB%B7%E6%A0%BC",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "baichuan-4",
+      "keyword": "百川 代码",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E7%99%BE%E5%B7%9D%20%E4%BB%A3%E7%A0%81",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "baichuan-4",
+      "keyword": "百川 写作",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E7%99%BE%E5%B7%9D%20%E5%86%99%E4%BD%9C",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "baichuan-4",
+      "keyword": "百川 推理",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E7%99%BE%E5%B7%9D%20%E6%8E%A8%E7%90%86",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "baichuan-4",
+      "keyword": "百川",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E7%99%BE%E5%B7%9D",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "baichuan-4",
+      "keyword": "百川 好用",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E7%99%BE%E5%B7%9D%20%E5%A5%BD%E7%94%A8",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "baichuan-4",
+      "keyword": "百川 评测",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E7%99%BE%E5%B7%9D%20%E8%AF%84%E6%B5%8B",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "baichuan-4",
+      "keyword": "百川 对比",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E7%99%BE%E5%B7%9D%20%E5%AF%B9%E6%AF%94",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "baichuan-4",
+      "keyword": "百川 价格",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E7%99%BE%E5%B7%9D%20%E4%BB%B7%E6%A0%BC",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "baichuan-4",
+      "keyword": "百川 代码",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E7%99%BE%E5%B7%9D%20%E4%BB%A3%E7%A0%81",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "baichuan-4",
+      "keyword": "百川 写作",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E7%99%BE%E5%B7%9D%20%E5%86%99%E4%BD%9C",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "baichuan-4",
+      "keyword": "百川 推理",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E7%99%BE%E5%B7%9D%20%E6%8E%A8%E7%90%86",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "step-2",
+      "keyword": "阶跃",
+      "searchUrl": "https://www.zhihu.com/search?q=%E9%98%B6%E8%B7%83",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "step-2",
+      "keyword": "阶跃 好用",
+      "searchUrl": "https://www.zhihu.com/search?q=%E9%98%B6%E8%B7%83%20%E5%A5%BD%E7%94%A8",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "step-2",
+      "keyword": "阶跃 评测",
+      "searchUrl": "https://www.zhihu.com/search?q=%E9%98%B6%E8%B7%83%20%E8%AF%84%E6%B5%8B",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "step-2",
+      "keyword": "阶跃 对比",
+      "searchUrl": "https://www.zhihu.com/search?q=%E9%98%B6%E8%B7%83%20%E5%AF%B9%E6%AF%94",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "step-2",
+      "keyword": "阶跃 价格",
+      "searchUrl": "https://www.zhihu.com/search?q=%E9%98%B6%E8%B7%83%20%E4%BB%B7%E6%A0%BC",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "step-2",
+      "keyword": "阶跃 代码",
+      "searchUrl": "https://www.zhihu.com/search?q=%E9%98%B6%E8%B7%83%20%E4%BB%A3%E7%A0%81",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "step-2",
+      "keyword": "阶跃 写作",
+      "searchUrl": "https://www.zhihu.com/search?q=%E9%98%B6%E8%B7%83%20%E5%86%99%E4%BD%9C",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "zhihu",
+      "modelId": "step-2",
+      "keyword": "阶跃 推理",
+      "searchUrl": "https://www.zhihu.com/search?q=%E9%98%B6%E8%B7%83%20%E6%8E%A8%E7%90%86",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "赞同",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "step-2",
+      "keyword": "阶跃",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E9%98%B6%E8%B7%83",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "step-2",
+      "keyword": "阶跃 好用",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E9%98%B6%E8%B7%83%20%E5%A5%BD%E7%94%A8",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "step-2",
+      "keyword": "阶跃 评测",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E9%98%B6%E8%B7%83%20%E8%AF%84%E6%B5%8B",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "step-2",
+      "keyword": "阶跃 对比",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E9%98%B6%E8%B7%83%20%E5%AF%B9%E6%AF%94",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "step-2",
+      "keyword": "阶跃 价格",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E9%98%B6%E8%B7%83%20%E4%BB%B7%E6%A0%BC",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "step-2",
+      "keyword": "阶跃 代码",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E9%98%B6%E8%B7%83%20%E4%BB%A3%E7%A0%81",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "step-2",
+      "keyword": "阶跃 写作",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E9%98%B6%E8%B7%83%20%E5%86%99%E4%BD%9C",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "xiaohongshu",
+      "modelId": "step-2",
+      "keyword": "阶跃 推理",
+      "searchUrl": "https://www.xiaohongshu.com/search_result?keyword=%E9%98%B6%E8%B7%83%20%E6%8E%A8%E7%90%86",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "step-2",
+      "keyword": "阶跃",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E9%98%B6%E8%B7%83",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "step-2",
+      "keyword": "阶跃 好用",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E9%98%B6%E8%B7%83%20%E5%A5%BD%E7%94%A8",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "step-2",
+      "keyword": "阶跃 评测",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E9%98%B6%E8%B7%83%20%E8%AF%84%E6%B5%8B",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "step-2",
+      "keyword": "阶跃 对比",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E9%98%B6%E8%B7%83%20%E5%AF%B9%E6%AF%94",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "step-2",
+      "keyword": "阶跃 价格",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E9%98%B6%E8%B7%83%20%E4%BB%B7%E6%A0%BC",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "step-2",
+      "keyword": "阶跃 代码",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E9%98%B6%E8%B7%83%20%E4%BB%A3%E7%A0%81",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "step-2",
+      "keyword": "阶跃 写作",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E9%98%B6%E8%B7%83%20%E5%86%99%E4%BD%9C",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "weibo",
+      "modelId": "step-2",
+      "keyword": "阶跃 推理",
+      "searchUrl": "https://s.weibo.com/weibo?q=%E9%98%B6%E8%B7%83%20%E6%8E%A8%E7%90%86",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "点赞",
+        "转发",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "step-2",
+      "keyword": "阶跃",
+      "searchUrl": "https://www.douyin.com/search/%E9%98%B6%E8%B7%83?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "step-2",
+      "keyword": "阶跃 好用",
+      "searchUrl": "https://www.douyin.com/search/%E9%98%B6%E8%B7%83%20%E5%A5%BD%E7%94%A8?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "step-2",
+      "keyword": "阶跃 评测",
+      "searchUrl": "https://www.douyin.com/search/%E9%98%B6%E8%B7%83%20%E8%AF%84%E6%B5%8B?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "step-2",
+      "keyword": "阶跃 对比",
+      "searchUrl": "https://www.douyin.com/search/%E9%98%B6%E8%B7%83%20%E5%AF%B9%E6%AF%94?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "step-2",
+      "keyword": "阶跃 价格",
+      "searchUrl": "https://www.douyin.com/search/%E9%98%B6%E8%B7%83%20%E4%BB%B7%E6%A0%BC?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "step-2",
+      "keyword": "阶跃 代码",
+      "searchUrl": "https://www.douyin.com/search/%E9%98%B6%E8%B7%83%20%E4%BB%A3%E7%A0%81?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "step-2",
+      "keyword": "阶跃 写作",
+      "searchUrl": "https://www.douyin.com/search/%E9%98%B6%E8%B7%83%20%E5%86%99%E4%BD%9C?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "douyin",
+      "modelId": "step-2",
+      "keyword": "阶跃 推理",
+      "searchUrl": "https://www.douyin.com/search/%E9%98%B6%E8%B7%83%20%E6%8E%A8%E7%90%86?type=general",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "点赞",
+        "收藏",
+        "评论"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "step-2",
+      "keyword": "阶跃",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E9%98%B6%E8%B7%83",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "step-2",
+      "keyword": "阶跃 好用",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E9%98%B6%E8%B7%83%20%E5%A5%BD%E7%94%A8",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "step-2",
+      "keyword": "阶跃 评测",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E9%98%B6%E8%B7%83%20%E8%AF%84%E6%B5%8B",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "step-2",
+      "keyword": "阶跃 对比",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E9%98%B6%E8%B7%83%20%E5%AF%B9%E6%AF%94",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "step-2",
+      "keyword": "阶跃 价格",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E9%98%B6%E8%B7%83%20%E4%BB%B7%E6%A0%BC",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "step-2",
+      "keyword": "阶跃 代码",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E9%98%B6%E8%B7%83%20%E4%BB%A3%E7%A0%81",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "step-2",
+      "keyword": "阶跃 写作",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E9%98%B6%E8%B7%83%20%E5%86%99%E4%BD%9C",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "hupu",
+      "modelId": "step-2",
+      "keyword": "阶跃 推理",
+      "searchUrl": "https://bbs.hupu.com/search?q=%E9%98%B6%E8%B7%83%20%E6%8E%A8%E7%90%86",
+      "reason": "API 未返回结果，需要浏览器 MCP 补采",
+      "requiredMetrics": [
+        "亮了",
+        "回复",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "step-2",
+      "keyword": "阶跃",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E9%98%B6%E8%B7%83",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "step-2",
+      "keyword": "阶跃 好用",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E9%98%B6%E8%B7%83%20%E5%A5%BD%E7%94%A8",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "step-2",
+      "keyword": "阶跃 评测",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E9%98%B6%E8%B7%83%20%E8%AF%84%E6%B5%8B",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "step-2",
+      "keyword": "阶跃 对比",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E9%98%B6%E8%B7%83%20%E5%AF%B9%E6%AF%94",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "step-2",
+      "keyword": "阶跃 价格",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E9%98%B6%E8%B7%83%20%E4%BB%B7%E6%A0%BC",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "step-2",
+      "keyword": "阶跃 代码",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E9%98%B6%E8%B7%83%20%E4%BB%A3%E7%A0%81",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "step-2",
+      "keyword": "阶跃 写作",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E9%98%B6%E8%B7%83%20%E5%86%99%E4%BD%9C",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "tieba",
+      "modelId": "step-2",
+      "keyword": "阶跃 推理",
+      "searchUrl": "https://tieba.baidu.com/f/search/res?ie=utf-8&qw=%E9%98%B6%E8%B7%83%20%E6%8E%A8%E7%90%86",
+      "reason": "未实现平台 adapter",
+      "requiredMetrics": [
+        "回复",
+        "点赞",
+        "浏览"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "step-2",
+      "keyword": "阶跃",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E9%98%B6%E8%B7%83",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "step-2",
+      "keyword": "阶跃 好用",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E9%98%B6%E8%B7%83%20%E5%A5%BD%E7%94%A8",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "step-2",
+      "keyword": "阶跃 评测",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E9%98%B6%E8%B7%83%20%E8%AF%84%E6%B5%8B",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "step-2",
+      "keyword": "阶跃 对比",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E9%98%B6%E8%B7%83%20%E5%AF%B9%E6%AF%94",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "step-2",
+      "keyword": "阶跃 价格",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E9%98%B6%E8%B7%83%20%E4%BB%B7%E6%A0%BC",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "step-2",
+      "keyword": "阶跃 代码",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E9%98%B6%E8%B7%83%20%E4%BB%A3%E7%A0%81",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "step-2",
+      "keyword": "阶跃 写作",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E9%98%B6%E8%B7%83%20%E5%86%99%E4%BD%9C",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    },
+    {
+      "platform": "bilibili",
+      "modelId": "step-2",
+      "keyword": "阶跃 推理",
+      "searchUrl": "https://search.bilibili.com/all?keyword=%E9%98%B6%E8%B7%83%20%E6%8E%A8%E7%90%86",
+      "reason": "bilibili search API failed: 412",
+      "requiredMetrics": [
+        "播放",
+        "点赞",
+        "收藏",
+        "投币"
+      ]
+    }
+  ]
+}

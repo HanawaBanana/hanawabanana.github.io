@@ -1,0 +1,4103 @@
+[
+  {
+    "id": "bilibili-deepseek-r1-e3od4h",
+    "modelId": "deepseek-r1",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：第四种黑猩猩CHIMP",
+    "title": "Deepseek V4, Opus 4.7, GPT 5.5, GLM 5.1, Kimi K2.6对比",
+    "excerpt": "bilibili 热评围绕「Deepseek V4, Opus 4.7, GPT 5」给出实际反馈，前十热评和前三楼中楼共同计入口碑判断。",
+    "quote": "DeepSeek V4 600万token 只花了我一毛五，人民币❗简直降维打击啊。其它至少150人民币，甚至能到800人民币。我出4千行真的超优质的代码，总…",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：Deepseek V4, Opus 4.7, GPT 5.5, GLM 5.1, Kimi K2.6对比",
+    "url": "https://www.bilibili.com/video/BV1TdReBLERa",
+    "sourceUrl": "https://www.bilibili.com/video/BV1TdReBLERa",
+    "publishedAt": "2026-05-04T09:30:10.000Z",
+    "collectedAt": "2026-05-18T04:02:31.783Z",
+    "isExample": false,
+    "sentiment": "neutral",
+    "confidence": 0.8550000000000001,
+    "topics": [
+      "userReputation",
+      "coding",
+      "priceAccess",
+      "dataAnalysis",
+      "ecosystem",
+      "capability"
+    ],
+    "useCaseMatches": [
+      "coding"
+    ],
+    "engagement": 86364,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 81042,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 2785,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 1942,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_coin",
+        "label": "投币",
+        "value": 546,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_comment_like",
+        "label": "点赞",
+        "value": 36,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_comment_like",
+        "label": "点赞",
+        "value": 6,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_comment_like",
+        "label": "点赞",
+        "value": 4,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_comment_like",
+        "label": "点赞",
+        "value": 3,
+        "unit": "次",
+        "positive": true
+      }
+    ],
+    "positiveSignals": [
+      "播放 81,042次",
+      "点赞 2,785次",
+      "收藏 1,942次"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-qwen-max-1jei9a3",
+    "modelId": "qwen-max",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：宇图瑞视",
+    "title": "三强真实数据测！Kimi K2.6 vs GLM-5.1 vs Qwen3.6，谁才是国产最强代码模型？",
+    "excerpt": "bilibili 热评围绕「三强真实数据测！Kimi K2.6 vs GLM-5.1」给出实际反馈，前十热评和前三楼中楼共同计入口碑判断。",
+    "quote": "支持kimi和glm，虽然我的配置跑不了，但是人家好歹开源了；楼中楼：可是qwen开源了你跑得了的，而且可用性还很高。你看看个人，小企业本地部署都用啥模型[d…",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：三强真实数据测！Kimi K2.6 vs GLM-5.1 vs Qwen3.6，谁才是国产最强代码模型？",
+    "url": "https://www.bilibili.com/video/BV1Vgd2BtEZE",
+    "sourceUrl": "https://www.bilibili.com/video/BV1Vgd2BtEZE",
+    "publishedAt": "2026-04-21T02:14:16.000Z",
+    "collectedAt": "2026-05-18T04:02:31.897Z",
+    "isExample": false,
+    "sentiment": "positive",
+    "confidence": 0.8550000000000001,
+    "topics": [
+      "userReputation",
+      "coding",
+      "priceAccess",
+      "dataAnalysis",
+      "ecosystem",
+      "capability"
+    ],
+    "useCaseMatches": [
+      "coding",
+      "open"
+    ],
+    "engagement": 17344,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 17071,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 92,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 45,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_comment_like",
+        "label": "点赞",
+        "value": 37,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply_like",
+        "label": "点赞",
+        "value": 35,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_comment_like",
+        "label": "点赞",
+        "value": 30,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_comment_like",
+        "label": "点赞",
+        "value": 20,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply_like",
+        "label": "点赞",
+        "value": 14,
+        "unit": "次",
+        "positive": true
+      }
+    ],
+    "positiveSignals": [
+      "播放 17,071次",
+      "点赞 92次",
+      "收藏 45次"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-deepseek-r1-1qu7uya",
+    "modelId": "deepseek-r1",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：宇图瑞视",
+    "title": "三强真实数据测！Kimi K2.6 vs GLM-5.1 vs Qwen3.6，谁才是国产最强代码模型？",
+    "excerpt": "bilibili 热评围绕「三强真实数据测！Kimi K2.6 vs GLM-5.1」给出实际反馈，前十热评和前三楼中楼共同计入口碑判断。",
+    "quote": "等deepseek v4吧，就这两天的事了；楼中楼：深度求索知道是这两天的事吗？",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：三强真实数据测！Kimi K2.6 vs GLM-5.1 vs Qwen3.6，谁才是国产最强代码模型？",
+    "url": "https://www.bilibili.com/video/BV1Vgd2BtEZE",
+    "sourceUrl": "https://www.bilibili.com/video/BV1Vgd2BtEZE",
+    "publishedAt": "2026-04-21T02:14:16.000Z",
+    "collectedAt": "2026-05-18T04:02:31.897Z",
+    "isExample": false,
+    "sentiment": "neutral",
+    "confidence": 0.88,
+    "topics": [
+      "userReputation",
+      "coding",
+      "priceAccess",
+      "dataAnalysis",
+      "ecosystem",
+      "capability"
+    ],
+    "useCaseMatches": [
+      "coding"
+    ],
+    "engagement": 17344,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 17071,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 92,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 45,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_comment_like",
+        "label": "点赞",
+        "value": 37,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply_like",
+        "label": "点赞",
+        "value": 35,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_comment_like",
+        "label": "点赞",
+        "value": 30,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_comment_like",
+        "label": "点赞",
+        "value": 20,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply_like",
+        "label": "点赞",
+        "value": 14,
+        "unit": "次",
+        "positive": true
+      }
+    ],
+    "positiveSignals": [
+      "播放 17,071次",
+      "点赞 92次",
+      "收藏 45次"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-kimi-k2-1jei9a3",
+    "modelId": "kimi-k2",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：宇图瑞视",
+    "title": "三强真实数据测！Kimi K2.6 vs GLM-5.1 vs Qwen3.6，谁才是国产最强代码模型？",
+    "excerpt": "bilibili 热评围绕「三强真实数据测！Kimi K2.6 vs GLM-5.1」给出实际反馈，前十热评和前三楼中楼共同计入口碑判断。",
+    "quote": "支持kimi和glm，虽然我的配置跑不了，但是人家好歹开源了；楼中楼：可是qwen开源了你跑得了的，而且可用性还很高。你看看个人，小企业本地部署都用啥模型[d…",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：三强真实数据测！Kimi K2.6 vs GLM-5.1 vs Qwen3.6，谁才是国产最强代码模型？",
+    "url": "https://www.bilibili.com/video/BV1Vgd2BtEZE",
+    "sourceUrl": "https://www.bilibili.com/video/BV1Vgd2BtEZE",
+    "publishedAt": "2026-04-21T02:14:16.000Z",
+    "collectedAt": "2026-05-18T04:02:31.897Z",
+    "isExample": false,
+    "sentiment": "positive",
+    "confidence": 0.8550000000000001,
+    "topics": [
+      "userReputation",
+      "coding",
+      "priceAccess",
+      "dataAnalysis",
+      "ecosystem",
+      "capability"
+    ],
+    "useCaseMatches": [
+      "agent"
+    ],
+    "engagement": 17344,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 17071,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 92,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 45,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_comment_like",
+        "label": "点赞",
+        "value": 37,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply_like",
+        "label": "点赞",
+        "value": 35,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_comment_like",
+        "label": "点赞",
+        "value": 30,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_comment_like",
+        "label": "点赞",
+        "value": 20,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply_like",
+        "label": "点赞",
+        "value": 14,
+        "unit": "次",
+        "positive": true
+      }
+    ],
+    "positiveSignals": [
+      "播放 17,071次",
+      "点赞 92次",
+      "收藏 45次"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-glm-4-1jei9a3",
+    "modelId": "glm-4",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：宇图瑞视",
+    "title": "三强真实数据测！Kimi K2.6 vs GLM-5.1 vs Qwen3.6，谁才是国产最强代码模型？",
+    "excerpt": "bilibili 热评围绕「三强真实数据测！Kimi K2.6 vs GLM-5.1」给出实际反馈，前十热评和前三楼中楼共同计入口碑判断。",
+    "quote": "支持kimi和glm，虽然我的配置跑不了，但是人家好歹开源了；楼中楼：可是qwen开源了你跑得了的，而且可用性还很高。你看看个人，小企业本地部署都用啥模型[d…",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：三强真实数据测！Kimi K2.6 vs GLM-5.1 vs Qwen3.6，谁才是国产最强代码模型？",
+    "url": "https://www.bilibili.com/video/BV1Vgd2BtEZE",
+    "sourceUrl": "https://www.bilibili.com/video/BV1Vgd2BtEZE",
+    "publishedAt": "2026-04-21T02:14:16.000Z",
+    "collectedAt": "2026-05-18T04:02:31.897Z",
+    "isExample": false,
+    "sentiment": "positive",
+    "confidence": 0.88,
+    "topics": [
+      "userReputation",
+      "coding",
+      "priceAccess",
+      "dataAnalysis",
+      "ecosystem",
+      "capability"
+    ],
+    "useCaseMatches": [
+      "coding",
+      "open"
+    ],
+    "engagement": 17344,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 17071,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 92,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 45,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_comment_like",
+        "label": "点赞",
+        "value": 37,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply_like",
+        "label": "点赞",
+        "value": 35,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_comment_like",
+        "label": "点赞",
+        "value": 30,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_comment_like",
+        "label": "点赞",
+        "value": 20,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply_like",
+        "label": "点赞",
+        "value": 14,
+        "unit": "次",
+        "positive": true
+      }
+    ],
+    "positiveSignals": [
+      "播放 17,071次",
+      "点赞 92次",
+      "收藏 45次"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-minimax-abab-1s06a07",
+    "modelId": "minimax-abab",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：宇图瑞视",
+    "title": "三强真实数据测！Kimi K2.6 vs GLM-5.1 vs Qwen3.6，谁才是国产最强代码模型？",
+    "excerpt": "bilibili 热评围绕「三强真实数据测！Kimi K2.6 vs GLM-5.1」给出实际反馈，前十热评和前三楼中楼共同计入口碑判断。",
+    "quote": "minimax-M2.7 也加入一下～；楼中楼：拉得很，改个代码绕来绕去，都改不出来。",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：三强真实数据测！Kimi K2.6 vs GLM-5.1 vs Qwen3.6，谁才是国产最强代码模型？",
+    "url": "https://www.bilibili.com/video/BV1Vgd2BtEZE",
+    "sourceUrl": "https://www.bilibili.com/video/BV1Vgd2BtEZE",
+    "publishedAt": "2026-04-21T02:14:16.000Z",
+    "collectedAt": "2026-05-18T04:02:31.897Z",
+    "isExample": false,
+    "sentiment": "negative",
+    "confidence": 0.8250000000000001,
+    "topics": [
+      "userReputation",
+      "coding",
+      "priceAccess",
+      "dataAnalysis",
+      "ecosystem",
+      "capability"
+    ],
+    "useCaseMatches": [],
+    "engagement": 17344,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 17071,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 92,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 45,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_comment_like",
+        "label": "点赞",
+        "value": 37,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply_like",
+        "label": "点赞",
+        "value": 35,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_comment_like",
+        "label": "点赞",
+        "value": 30,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_comment_like",
+        "label": "点赞",
+        "value": 20,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply_like",
+        "label": "点赞",
+        "value": 14,
+        "unit": "次",
+        "positive": true
+      }
+    ],
+    "positiveSignals": [
+      "播放 17,071次",
+      "点赞 92次",
+      "收藏 45次"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-minimax-abab-1wvuvoa",
+    "modelId": "minimax-abab",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：AI学长小林",
+    "title": "AI实战：10个案例，让AI成为你手中真正的生产力工具，高效人士必修！",
+    "excerpt": "bilibili 热评围绕「AI实战：10个案例，让AI成为你手中真正的生产力工具，」给出实际反馈，前十热评和前三楼中楼共同计入口碑判断。",
+    "quote": "去体检一下海螺ai 真的巨巨巨好用[星星眼]；楼中楼：你一直在用海螺AI吗",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：AI实战：10个案例，让AI成为你手中真正的生产力工具，高效人士必修！",
+    "url": "https://www.bilibili.com/video/BV1QJ4m1L77Q",
+    "sourceUrl": "https://www.bilibili.com/video/BV1QJ4m1L77Q",
+    "publishedAt": "2024-03-26T09:01:57.000Z",
+    "collectedAt": "2026-05-18T04:02:32.702Z",
+    "isExample": false,
+    "sentiment": "positive",
+    "confidence": 0.8550000000000001,
+    "topics": [
+      "userReputation",
+      "coding",
+      "priceAccess",
+      "dataAnalysis",
+      "ecosystem",
+      "capability"
+    ],
+    "useCaseMatches": [
+      "video"
+    ],
+    "engagement": 71079,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 66534,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 2839,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 1169,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_coin",
+        "label": "投币",
+        "value": 446,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_comment_like",
+        "label": "点赞",
+        "value": 73,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_comment_like",
+        "label": "点赞",
+        "value": 8,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_comment_like",
+        "label": "点赞",
+        "value": 5,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_comment_like",
+        "label": "点赞",
+        "value": 5,
+        "unit": "次",
+        "positive": true
+      }
+    ],
+    "positiveSignals": [
+      "播放 66,534次",
+      "收藏 2,839次",
+      "点赞 1,169次"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-qwen-max-aHR0cHM6Ly93",
+    "modelId": "qwen-max",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：会弹琴的我",
+    "title": "千问Studio与普通版的区别",
+    "excerpt": "千问Studio与普通版的区别 这两个链接是阿里通义千问（Qwen）官方产品的两个不同面向： · https://qwen.ai/home (Qwen Studio)：品牌与产品展示窗口。主要功能是集中展示 Qwen 系列的全部产品和技术，包括 API、开源模型、开发者工具、研究动态等。它更像一个产品门户，提供全面的技术与能力概览。 · https://ch",
+    "quote": "千问Studio与普通版的区别 这两个链接是阿里通义千问（Qwen）官方产品的两个不同面向： · https://qwen.ai/home (Qwen Stu…",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：千问Studio与普通版的区别",
+    "url": "https://www.bilibili.com/video/BV1o9oeBYE8j",
+    "sourceUrl": "https://www.bilibili.com/video/BV1o9oeBYE8j",
+    "publishedAt": "2026-04-26T16:14:33.000Z",
+    "collectedAt": "2026-05-16T14:26:54.255Z",
+    "isExample": false,
+    "sentiment": "positive",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [
+      "coding",
+      "open"
+    ],
+    "engagement": 11334,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 11010,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 146,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 87,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_coin",
+        "label": "投币",
+        "value": 6,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply",
+        "label": "评论",
+        "value": 85,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "播放 11,010",
+      "点赞 146",
+      "收藏 87"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-qwen-max-aHR0cHM6Ly93",
+    "modelId": "qwen-max",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：Cyber-维克托",
+    "title": "千问上线表格Agent，让做Excel和聊天一样简单",
+    "excerpt": "千问上线表格Agent，让做Excel和聊天一样简单 老婆连夸好用！朋友直呼牛逼！千问表格Agent，不止是打工人的办公神器，也能让普通人把日子过得更明白~",
+    "quote": "千问上线表格Agent，让做Excel和聊天一样简单 老婆连夸好用！朋友直呼牛逼！千问表格Agent，不止是打工人的办公神器，也能让普通人把日子过得更明白~",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：千问上线表格Agent，让做Excel和聊天一样简单",
+    "url": "https://www.bilibili.com/video/BV1mbQYBAEcw",
+    "sourceUrl": "https://www.bilibili.com/video/BV1mbQYBAEcw",
+    "publishedAt": "2026-04-14T03:37:04.000Z",
+    "collectedAt": "2026-05-16T14:26:54.255Z",
+    "isExample": false,
+    "sentiment": "positive",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [
+      "coding",
+      "writing"
+    ],
+    "engagement": 981,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 958,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 13,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 10,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_coin",
+        "label": "投币",
+        "value": 0,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply",
+        "label": "评论",
+        "value": 0,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "播放 958",
+      "点赞 13",
+      "收藏 10"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-qwen-max-aHR0cHM6Ly93",
+    "modelId": "qwen-max",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：尚书省说书人",
+    "title": "人人都能用上Qwen3.6 35B？全新APEX量化：Q4大小Q8体验！",
+    "excerpt": "人人都能用上Qwen3.6 35B？全新APEX量化：Q4大小Q8体验！ Qwen3.6 35B APEX量化：mudler/Qwen3.6-35B-A3B-APEX-GGUF · 拥抱脸 --- mudler/Qwen3.6-35B-A3B-APEX-GGUF · Hugging Face",
+    "quote": "人人都能用上Qwen3.6 35B？全新APEX量化：Q4大小Q8体验！ Qwen3.6 35B APEX量化：mudler/Qwen3.6-35B-A3B-…",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：人人都能用上Qwen3.6 35B？全新APEX量化：Q4大小Q8体验！",
+    "url": "https://www.bilibili.com/video/BV1qjdCBdEE9",
+    "sourceUrl": "https://www.bilibili.com/video/BV1qjdCBdEE9",
+    "publishedAt": "2026-04-20T15:22:39.000Z",
+    "collectedAt": "2026-05-16T14:26:54.255Z",
+    "isExample": false,
+    "sentiment": "neutral",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [],
+    "engagement": 29802,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 28154,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 329,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 852,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_coin",
+        "label": "投币",
+        "value": 62,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply",
+        "label": "评论",
+        "value": 405,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "播放 28,154",
+      "点赞 329",
+      "收藏 852"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-deepseek-r1-aHR0cHM6Ly93",
+    "modelId": "deepseek-r1",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：Bit柚子",
+    "title": "0基础5分钟用DeepSeek实现全自动交易！保姆级教程 | 亲测收益稳定~",
+    "excerpt": "0基础5分钟用DeepSeek实现全自动交易！保姆级教程 | 亲测收益稳定~ 这期我用小白视角，教你5分钟把 DeepSeek 变成“全自动交易员”。 不搭服务器、不写代码，按模板一键跑起来，成本几乎只剩基础模型调用。 我用同一套设置实测 2 天。 视频内含完整教程：选模型 → 选模板 → 启动运行 重点讲清：为什么AI交易火、手动交易的真实成本、以及如何避",
+    "quote": "0基础5分钟用DeepSeek实现全自动交易！保姆级教程 | 亲测收益稳定~ 这期我用小白视角，教你5分钟把 DeepSeek 变成“全自动交易员”。 不搭服…",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：0基础5分钟用DeepSeek实现全自动交易！保姆级教程 | 亲测收益稳定~",
+    "url": "https://www.bilibili.com/video/BV1XYBsBnEyu",
+    "sourceUrl": "https://www.bilibili.com/video/BV1XYBsBnEyu",
+    "publishedAt": "2025-12-22T11:07:08.000Z",
+    "collectedAt": "2026-05-16T14:26:54.258Z",
+    "isExample": false,
+    "sentiment": "positive",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [
+      "coding",
+      "open-cost"
+    ],
+    "engagement": 72681,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 67213,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 1113,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 3264,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_coin",
+        "label": "投币",
+        "value": 478,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply",
+        "label": "评论",
+        "value": 613,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "播放 67,213",
+      "点赞 1,113",
+      "收藏 3,264"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-deepseek-r1-aHR0cHM6Ly93",
+    "modelId": "deepseek-r1",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：青木Tech",
+    "title": "完全体DeepSeek-R1，5分钟用硅基流动API打造你的专属人工智能",
+    "excerpt": "完全体DeepSeek-R1，5分钟用硅基流动API打造你的专属人工智能 邀请码：Gx8xaFXO 本期介绍一下硅基流动DeepSeek-R1 API的使用，在线拥有更加智能的完全体R1模型，并且可以进行投喂数据。 用到的软件在这：（新加了苹果的财报和deepseek r1的论文，大家可以玩一下） 夸克网盘：链接：https://pan.quark.cn/s",
+    "quote": "完全体DeepSeek-R1，5分钟用硅基流动API打造你的专属人工智能 邀请码：Gx8xaFXO 本期介绍一下硅基流动DeepSeek-R1 API的使用，…",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：完全体DeepSeek-R1，5分钟用硅基流动API打造你的专属人工智能",
+    "url": "https://www.bilibili.com/video/BV1pCPDenEC3",
+    "sourceUrl": "https://www.bilibili.com/video/BV1pCPDenEC3",
+    "publishedAt": "2025-02-03T02:01:25.000Z",
+    "collectedAt": "2026-05-16T14:26:54.258Z",
+    "isExample": false,
+    "sentiment": "neutral",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [
+      "reasoning",
+      "open-cost"
+    ],
+    "engagement": 236552,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 221298,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 3241,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 7186,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_coin",
+        "label": "投币",
+        "value": 1662,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply",
+        "label": "评论",
+        "value": 3165,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "播放 221,298",
+      "点赞 3,241",
+      "收藏 7,186"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-deepseek-r1-aHR0cHM6Ly93",
+    "modelId": "deepseek-r1",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：橘鸦Juya",
+    "title": "DeepSeek 宣布 V4-Pro 模型 API 价格限时 2.5 折；DeepSeek 员工分享开启扮演模式指令【AI 早报 2026-04-26】",
+    "excerpt": "DeepSeek 宣布 V4-Pro 模型 API 价格限时 2.5 折；DeepSeek 员工分享开启扮演模式指令【AI 早报 2026-04-26】 文字版及相关链接请看：https://mp.weixin.qq.com/s/rRjp72FwVtWR-DHrsZynsg 00:09 DeepSeek 限时下调 V4-Pro 模型 API 价格，更新开发工",
+    "quote": "DeepSeek 宣布 V4-Pro 模型 API 价格限时 2.5 折；DeepSeek 员工分享开启扮演模式指令【AI 早报 2026-04-26】 文字…",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：DeepSeek 宣布 V4-Pro 模型 API 价格限时 2.5 折；DeepSeek 员工分享开启扮演模式指令【AI 早报 2026-04-26】",
+    "url": "https://www.bilibili.com/video/BV18WooBpEJ8",
+    "sourceUrl": "https://www.bilibili.com/video/BV18WooBpEJ8",
+    "publishedAt": "2026-04-26T00:45:36.000Z",
+    "collectedAt": "2026-05-16T14:26:54.258Z",
+    "isExample": false,
+    "sentiment": "neutral",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [
+      "coding",
+      "open-cost"
+    ],
+    "engagement": 142493,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 138394,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 1713,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 1116,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_coin",
+        "label": "投币",
+        "value": 131,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply",
+        "label": "评论",
+        "value": 1139,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "播放 138,394",
+      "点赞 1,713",
+      "收藏 1,116"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-kimi-k2-aHR0cHM6Ly93",
+    "modelId": "kimi-k2",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：AI破局者",
+    "title": "Kimi k2.5 使用技巧：从视频理解到全栈开发，这5种神级玩法带你彻底玩转！",
+    "excerpt": "Kimi k2.5 使用技巧：从视频理解到全栈开发，这5种神级玩法带你彻底玩转！ Kimi k2.5 更新了，不知道怎么用？这期视频总结了 Kimi k2.5 最实用的5种进阶玩法，助你压榨出这个“性能怪兽”的全部潜力。 无论是做影视解说、程序员写代码，还是职场人做 PPT，Kimi k2.5 的原生多模态能力和 256k 长上下文都能帮你大幅提效。特别是 ",
+    "quote": "Kimi k2.5 使用技巧：从视频理解到全栈开发，这5种神级玩法带你彻底玩转！ Kimi k2.5 更新了，不知道怎么用？这期视频总结了 Kimi k2.5…",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：Kimi k2.5 使用技巧：从视频理解到全栈开发，这5种神级玩法带你彻底玩转！",
+    "url": "https://www.bilibili.com/video/BV1n9FLzaEQN",
+    "sourceUrl": "https://www.bilibili.com/video/BV1n9FLzaEQN",
+    "publishedAt": "2026-02-03T13:10:00.000Z",
+    "collectedAt": "2026-05-16T14:26:54.260Z",
+    "isExample": false,
+    "sentiment": "neutral",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [
+      "long-context",
+      "agent"
+    ],
+    "engagement": 41488,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 39747,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 522,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 1048,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_coin",
+        "label": "投币",
+        "value": 91,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply",
+        "label": "评论",
+        "value": 80,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "播放 39,747",
+      "点赞 522",
+      "收藏 1,048"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-kimi-k2-aHR0cHM6Ly93",
+    "modelId": "kimi-k2",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：鲲鹏Talk",
+    "title": "Kimi 网页桥接彻底火了！AI 开始“自己操作浏览器”了：自动搜索、点击、输入、滚动，我用 Cursor + 小龙虾网站实测太离谱了！",
+    "excerpt": "Kimi 网页桥接彻底火了！AI 开始“自己操作浏览器”了：自动搜索、点击、输入、滚动，我用 Cursor + 小龙虾网站实测太离谱了！ 这一期带大家实测最近非常火的 Kimi 网页桥接（WebBridge）浏览器扩展。 它最大的特点，就是让 AI 不再只是“聊天”，而是真的可以像人类一样操作浏览器：搜索网页、点击按钮、输入内容、滚动页面，甚至一步步完成网页",
+    "quote": "Kimi 网页桥接彻底火了！AI 开始“自己操作浏览器”了：自动搜索、点击、输入、滚动，我用 Cursor + 小龙虾网站实测太离谱了！ 这一期带大家实测最近…",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：Kimi 网页桥接彻底火了！AI 开始“自己操作浏览器”了：自动搜索、点击、输入、滚动，我用 Cursor + 小龙虾网站实测太离谱了！",
+    "url": "https://www.bilibili.com/video/BV1BX5R6xEZR",
+    "sourceUrl": "https://www.bilibili.com/video/BV1BX5R6xEZR",
+    "publishedAt": "2026-05-14T15:34:54.000Z",
+    "collectedAt": "2026-05-16T14:26:54.260Z",
+    "isExample": false,
+    "sentiment": "neutral",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [
+      "search-writing"
+    ],
+    "engagement": 4008,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 3681,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 85,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 219,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_coin",
+        "label": "投币",
+        "value": 8,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply",
+        "label": "评论",
+        "value": 15,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "播放 3,681",
+      "点赞 85",
+      "收藏 219"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-kimi-k2-aHR0cHM6Ly93",
+    "modelId": "kimi-k2",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：jack叔叔bili",
+    "title": "kimi2.6 用Agent 群集  更高效的学习方式",
+    "excerpt": "kimi2.6 用Agent 群集 更高效的学习方式 最近 Kimi 出了 2.6，里面有个 Agent 集群功能 🚀 打个比方 👇 你想买菜，叫 10 个外卖员同时去 10 家超市。 集群就是这么干活的—— 我让它跑了一次\"自媒体调研\" 派了 12 个深度 Agent 同时干活 5 分钟出了 5000 字报告 📚 但接下来⚠️ 我读不下去。 🪞 反",
+    "quote": "kimi2.6 用Agent 群集 更高效的学习方式 最近 Kimi 出了 2.6，里面有个 Agent 集群功能 🚀 打个比方 👇 你想买菜，叫 10 …",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：kimi2.6 用Agent 群集  更高效的学习方式",
+    "url": "https://www.bilibili.com/video/BV1qxREBSEVZ",
+    "sourceUrl": "https://www.bilibili.com/video/BV1qxREBSEVZ",
+    "publishedAt": "2026-05-02T09:17:54.000Z",
+    "collectedAt": "2026-05-16T14:26:54.260Z",
+    "isExample": false,
+    "sentiment": "neutral",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [
+      "agent"
+    ],
+    "engagement": 1154,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 1122,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 15,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 15,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_coin",
+        "label": "投币",
+        "value": 2,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply",
+        "label": "评论",
+        "value": 0,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "播放 1,122",
+      "点赞 15",
+      "收藏 15"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-doubao-pro-aHR0cHM6Ly93",
+    "modelId": "doubao-pro",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：JiaBIM",
+    "title": "如何利用豆包生成CAD插件",
+    "excerpt": "如何利用豆包生成CAD插件 本视频教你如何利用豆包AI生成CAD插件，即使不会编程也能轻松上手。通过详细的任务拆解和需求整理，你将学会如何编写提示词、与AI对话、生成Lisp代码，并完成插件的测试与修正。视频还强调了选择强大AI模型的重要性，帮助你高效完成插件开发。适合CAD用户和插件开发者观看！",
+    "quote": "如何利用豆包生成CAD插件 本视频教你如何利用豆包AI生成CAD插件，即使不会编程也能轻松上手。通过详细的任务拆解和需求整理，你将学会如何编写提示词、与AI对…",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：如何利用豆包生成CAD插件",
+    "url": "https://www.bilibili.com/video/BV1vf6pYAEAR",
+    "sourceUrl": "https://www.bilibili.com/video/BV1vf6pYAEAR",
+    "publishedAt": "2024-12-28T15:14:10.000Z",
+    "collectedAt": "2026-05-16T14:26:54.264Z",
+    "isExample": false,
+    "sentiment": "positive",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [
+      "consumer",
+      "creative",
+      "api"
+    ],
+    "engagement": 59650,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 55733,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 934,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 2596,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_coin",
+        "label": "投币",
+        "value": 313,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply",
+        "label": "评论",
+        "value": 74,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "播放 55,733",
+      "点赞 934",
+      "收藏 2,596"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-doubao-pro-aHR0cHM6Ly93",
+    "modelId": "doubao-pro",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：互联网俊明说",
+    "title": "俊明体验｜豆包、千问、元宝、Kimi，普通人到底该选谁？",
+    "excerpt": "俊明体验｜豆包、千问、元宝、Kimi，普通人到底该选谁？ AI工具越来越多，豆包、千问、元宝、Kimi到底该怎么选？普通人真的需要关心谁参数更强、模型更大吗？未必吧。大多数人用AI，不就是聊天、写东西、查资料、修图省时间吗？那与其看谁最强，不如直接放进真实场景里测一遍，看看谁更适合日常用，不是更实际吗？",
+    "quote": "俊明体验｜豆包、千问、元宝、Kimi，普通人到底该选谁？ AI工具越来越多，豆包、千问、元宝、Kimi到底该怎么选？普通人真的需要关心谁参数更强、模型更大吗？…",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：俊明体验｜豆包、千问、元宝、Kimi，普通人到底该选谁？",
+    "url": "https://www.bilibili.com/video/BV1BVXoBsEJR",
+    "sourceUrl": "https://www.bilibili.com/video/BV1BVXoBsEJR",
+    "publishedAt": "2026-03-30T03:34:38.000Z",
+    "collectedAt": "2026-05-16T14:26:54.264Z",
+    "isExample": false,
+    "sentiment": "positive",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [
+      "consumer",
+      "creative"
+    ],
+    "engagement": 24495,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 23621,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 273,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 347,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_coin",
+        "label": "投币",
+        "value": 12,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply",
+        "label": "评论",
+        "value": 242,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "播放 23,621",
+      "点赞 273",
+      "收藏 347"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-doubao-pro-aHR0cHM6Ly93",
+    "modelId": "doubao-pro",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：厄加特特呀",
+    "title": "纯干货：只用豆包论文AI率从100%降到0，赶紧学吧你就。",
+    "excerpt": "纯干货：只用豆包论文AI率从100%降到0，赶紧学吧你就。 这期视频是教大家如何用豆包来降低论文ai率，选的是一个100%ai率的论文片段，每一个指令步骤和原理都有介绍。 如果你还是学不会，可以试试这个网址gou.ai-or.com，点那个套餐购买，拉到最底下有个口令领取，在那里发“特特好降”就能领取免费试用字符。",
+    "quote": "纯干货：只用豆包论文AI率从100%降到0，赶紧学吧你就。 这期视频是教大家如何用豆包来降低论文ai率，选的是一个100%ai率的论文片段，每一个指令步骤和原…",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：纯干货：只用豆包论文AI率从100%降到0，赶紧学吧你就。",
+    "url": "https://www.bilibili.com/video/BV1qFwBz9E8w",
+    "sourceUrl": "https://www.bilibili.com/video/BV1qFwBz9E8w",
+    "publishedAt": "2026-03-18T17:37:43.000Z",
+    "collectedAt": "2026-05-16T14:26:54.264Z",
+    "isExample": false,
+    "sentiment": "neutral",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [
+      "creative"
+    ],
+    "engagement": 94962,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 89142,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 1304,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 2835,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_coin",
+        "label": "投币",
+        "value": 586,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply",
+        "label": "评论",
+        "value": 1095,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "播放 89,142",
+      "点赞 1,304",
+      "收藏 2,835"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-ernie-4-aHR0cHM6Ly93",
+    "modelId": "ernie-4",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：AI李探长",
+    "title": "国内主流AI平台评测公文自媒体内容PPT制作会议纪要豆包kimi文心通义千",
+    "excerpt": "国内主流AI平台评测公文自媒体内容PPT制作会议纪要豆包kimi文心通义千 时隔半年再次评测国内AI 本轮评测公文写作、自媒体创作、PPt制作和会议纪要四个功能 →我用AI做了一个智能嘴替，资料库、知识库他都有，随时跟她聊天吧。点我头像就能看到号",
+    "quote": "国内主流AI平台评测公文自媒体内容PPT制作会议纪要豆包kimi文心通义千 时隔半年再次评测国内AI 本轮评测公文写作、自媒体创作、PPt制作和会议纪要四个功…",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：国内主流AI平台评测公文自媒体内容PPT制作会议纪要豆包kimi文心通义千",
+    "url": "https://www.bilibili.com/video/BV1tWqnYBE7i",
+    "sourceUrl": "https://www.bilibili.com/video/BV1tWqnYBE7i",
+    "publishedAt": "2024-12-08T03:27:37.000Z",
+    "collectedAt": "2026-05-16T14:26:54.266Z",
+    "isExample": false,
+    "sentiment": "neutral",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [
+      "search",
+      "office"
+    ],
+    "engagement": 31802,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 30771,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 375,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 502,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_coin",
+        "label": "投币",
+        "value": 61,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply",
+        "label": "评论",
+        "value": 93,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "播放 30,771",
+      "点赞 375",
+      "收藏 502"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-ernie-4-aHR0cHM6Ly93",
+    "modelId": "ernie-4",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：infinite灵感港",
+    "title": "百度正式发布文心5.1大模型，极致的参数效率和训练成本 | 5月10日AI日报第391期",
+    "excerpt": "百度正式发布文心5.1大模型，极致的参数效率和训练成本 | 5月10日AI日报第391期 今日内容： 1·百度正式发布文心5.1[00:03] 2·火山云上大模型调用占比达第一[00:32] 3·阶跃发布StepAudio 2.5 Realtime[01:02] 4·蚂蚁百灵发布Ring 2.6 1T[01:16] 5·传Deepseek拟融资500亿[01",
+    "quote": "百度正式发布文心5.1大模型，极致的参数效率和训练成本 | 5月10日AI日报第391期 今日内容： 1·百度正式发布文心5.1[00:03] 2·火山云上大…",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：百度正式发布文心5.1大模型，极致的参数效率和训练成本 | 5月10日AI日报第391期",
+    "url": "https://www.bilibili.com/video/BV1qDR9BJEjB",
+    "sourceUrl": "https://www.bilibili.com/video/BV1qDR9BJEjB",
+    "publishedAt": "2026-05-09T12:00:00.000Z",
+    "collectedAt": "2026-05-16T14:26:54.266Z",
+    "isExample": false,
+    "sentiment": "neutral",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [
+      "search"
+    ],
+    "engagement": 17312,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 16775,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 296,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 53,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_coin",
+        "label": "投币",
+        "value": 7,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply",
+        "label": "评论",
+        "value": 181,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "播放 16,775",
+      "点赞 296",
+      "收藏 53"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-ernie-4-aHR0cHM6Ly93",
+    "modelId": "ernie-4",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：文心智能体平台",
+    "title": "【保姆级教程】百度文心智能体平台零基础AI开发课程",
+    "excerpt": "【保姆级教程】百度文心智能体平台零基础AI开发课程 文心智能体平台推出《百度文心智能体开发课程》，意在帮助开发者们顺利开发出自己的AI产品，课程中为大家提供了文心智能体平台介绍、智能体开发与上线、智能体快速冷启获流等详细的开发教程哦～",
+    "quote": "【保姆级教程】百度文心智能体平台零基础AI开发课程 文心智能体平台推出《百度文心智能体开发课程》，意在帮助开发者们顺利开发出自己的AI产品，课程中为大家提供了…",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：【保姆级教程】百度文心智能体平台零基础AI开发课程",
+    "url": "https://www.bilibili.com/video/BV1m64y1K7Pi",
+    "sourceUrl": "https://www.bilibili.com/video/BV1m64y1K7Pi",
+    "publishedAt": "2024-01-11T08:52:55.000Z",
+    "collectedAt": "2026-05-16T14:26:54.266Z",
+    "isExample": false,
+    "sentiment": "neutral",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [
+      "search"
+    ],
+    "engagement": 14320,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 13475,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 162,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 607,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_coin",
+        "label": "投币",
+        "value": 55,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply",
+        "label": "评论",
+        "value": 21,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "播放 13,475",
+      "点赞 162",
+      "收藏 607"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-glm-4-aHR0cHM6Ly93",
+    "modelId": "glm-4",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：鲁大师软件开发",
+    "title": "智谱AI首个免费API，零成本调用大模型，支持128K上下文，高并发",
+    "excerpt": "智谱AI首个免费API，零成本调用大模型，支持128K上下文，高并发 智谱AI首个免费API，零成本调用大模型，支持128K上下文，高并发，8月27日起",
+    "quote": "智谱AI首个免费API，零成本调用大模型，支持128K上下文，高并发 智谱AI首个免费API，零成本调用大模型，支持128K上下文，高并发，8月27日起",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：智谱AI首个免费API，零成本调用大模型，支持128K上下文，高并发",
+    "url": "https://www.bilibili.com/video/BV11zsAegE6E",
+    "sourceUrl": "https://www.bilibili.com/video/BV11zsAegE6E",
+    "publishedAt": "2024-08-28T01:18:35.000Z",
+    "collectedAt": "2026-05-16T14:26:54.267Z",
+    "isExample": false,
+    "sentiment": "neutral",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [
+      "agent",
+      "coding"
+    ],
+    "engagement": 10217,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 9973,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 57,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 157,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_coin",
+        "label": "投币",
+        "value": 8,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply",
+        "label": "评论",
+        "value": 22,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "播放 9,973",
+      "点赞 57",
+      "收藏 157"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-glm-4-aHR0cHM6Ly93",
+    "modelId": "glm-4",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：御风大世界",
+    "title": "GLM-5.1 实测：编程SOTA，8小时长任务不翻车！",
+    "excerpt": "GLM-5.1 实测：编程SOTA，8小时长任务不翻车！ GLM-5.1 实测：编程SOTA，8小时长任务不翻车！",
+    "quote": "GLM-5.1 实测：编程SOTA，8小时长任务不翻车！ GLM-5.1 实测：编程SOTA，8小时长任务不翻车！",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：GLM-5.1 实测：编程SOTA，8小时长任务不翻车！",
+    "url": "https://www.bilibili.com/video/BV1z8DrBrEDG",
+    "sourceUrl": "https://www.bilibili.com/video/BV1z8DrBrEDG",
+    "publishedAt": "2026-04-08T04:18:37.000Z",
+    "collectedAt": "2026-05-16T14:26:54.267Z",
+    "isExample": false,
+    "sentiment": "neutral",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [
+      "coding",
+      "open"
+    ],
+    "engagement": 101828,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 96582,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 2074,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 1463,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_coin",
+        "label": "投币",
+        "value": 1312,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply",
+        "label": "评论",
+        "value": 397,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "播放 96,582",
+      "点赞 2,074",
+      "收藏 1,463"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-glm-4-aHR0cHM6Ly93",
+    "modelId": "glm-4",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：可可耐特coconut",
+    "title": "claude code + 智谱国产模型，0门槛使用",
+    "excerpt": "claude code + 智谱国产模型，0门槛使用 第一集：0门槛使用claude code！ 不会配置？不会使用Claude Code的小白，即看我这期视频就够了！ 不用复杂的官方配置，就用智谱国产模型平替，五分钟上手！ Claude Code 能干嘛？啥都能干，写代码，做规划，做剪辑，学东西，干科研！还有无穷的玩法，等待解锁！ 动态顶置进交流群 文章链",
+    "quote": "claude code + 智谱国产模型，0门槛使用 第一集：0门槛使用claude code！ 不会配置？不会使用Claude Code的小白，即看我这期视…",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：claude code + 智谱国产模型，0门槛使用",
+    "url": "https://www.bilibili.com/video/BV1BjQjBTEMH",
+    "sourceUrl": "https://www.bilibili.com/video/BV1BjQjBTEMH",
+    "publishedAt": "2026-04-15T07:26:08.000Z",
+    "collectedAt": "2026-05-16T14:26:54.267Z",
+    "isExample": false,
+    "sentiment": "neutral",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [
+      "coding"
+    ],
+    "engagement": 2252,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 2179,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 20,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 39,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_coin",
+        "label": "投币",
+        "value": 11,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply",
+        "label": "评论",
+        "value": 3,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "播放 2,179",
+      "点赞 20",
+      "收藏 39"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-hunyuan-turbos-aHR0cHM6Ly93",
+    "modelId": "hunyuan-turbos",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：未来博士wepon",
+    "title": "腾讯混元3收费了还是全球第一？",
+    "excerpt": "腾讯混元3收费了还是全球第一？ 在大模型圈，腾讯混元一直像个小透明，很少去刷榜，以至于大家都觉得不太能打。 上个月，姚顺雨在腾讯的第一个作品 HY3 悄悄上线，正好撞上 DeepSeek V4 这种现象级产品，风头几乎被完全盖住了。 但就在 4 月底，在全球最大的模型 API 分发平台 OpenRouter 上跟300 多个模型同台，全球开发者“用脚投票”。",
+    "quote": "腾讯混元3收费了还是全球第一？ 在大模型圈，腾讯混元一直像个小透明，很少去刷榜，以至于大家都觉得不太能打。 上个月，姚顺雨在腾讯的第一个作品 HY3 悄悄上线…",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：腾讯混元3收费了还是全球第一？",
+    "url": "https://www.bilibili.com/video/BV1Ek5t6EEnj",
+    "sourceUrl": "https://www.bilibili.com/video/BV1Ek5t6EEnj",
+    "publishedAt": "2026-05-11T14:46:34.000Z",
+    "collectedAt": "2026-05-16T14:26:54.268Z",
+    "isExample": false,
+    "sentiment": "neutral",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [
+      "cloud"
+    ],
+    "engagement": 6177,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 5974,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 125,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 26,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_coin",
+        "label": "投币",
+        "value": 11,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply",
+        "label": "评论",
+        "value": 41,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "播放 5,974",
+      "点赞 125",
+      "收藏 26"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-hunyuan-turbos-aHR0cHM6Ly93",
+    "modelId": "hunyuan-turbos",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：龙虾日记",
+    "title": "11款AI模型api token价格对比",
+    "excerpt": "11款AI模型api token价格对比 国内国外全部主流，11款AI模型api token价格对比。视频里我把国内外模型的输入、输出价格和 3 个常见使用场景都做了对比。包括DeepSeek、Qwen、MiniMax、GLM、Kimi、mimo、混元HY 、豆包、GPT、Claude 、Gemini共11款",
+    "quote": "11款AI模型api token价格对比 国内国外全部主流，11款AI模型api token价格对比。视频里我把国内外模型的输入、输出价格和 3 个常见使用场…",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：11款AI模型api token价格对比",
+    "url": "https://www.bilibili.com/video/BV1p49aBYEZz",
+    "sourceUrl": "https://www.bilibili.com/video/BV1p49aBYEZz",
+    "publishedAt": "2026-04-30T09:30:03.000Z",
+    "collectedAt": "2026-05-16T14:26:54.268Z",
+    "isExample": false,
+    "sentiment": "neutral",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [
+      "cloud"
+    ],
+    "engagement": 812,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 799,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 8,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 5,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_coin",
+        "label": "投币",
+        "value": 0,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply",
+        "label": "评论",
+        "value": 0,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "播放 799",
+      "点赞 8",
+      "收藏 5"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-hunyuan-turbos-aHR0cHM6Ly93",
+    "modelId": "hunyuan-turbos",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：率土之滨优神",
+    "title": "木鹿郝昭曹操，不受控制的稳定混元刀队，比荀彧的好用很多。",
+    "excerpt": "木鹿郝昭曹操，不受控制的稳定混元刀队，比荀彧的好用很多。 木鹿郝昭曹操，不受控制的稳定混元刀队，比荀彧的好用很多。",
+    "quote": "木鹿郝昭曹操，不受控制的稳定混元刀队，比荀彧的好用很多。 木鹿郝昭曹操，不受控制的稳定混元刀队，比荀彧的好用很多。",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：木鹿郝昭曹操，不受控制的稳定混元刀队，比荀彧的好用很多。",
+    "url": "https://www.bilibili.com/video/BV1cGpczCEYf",
+    "sourceUrl": "https://www.bilibili.com/video/BV1cGpczCEYf",
+    "publishedAt": "2025-09-14T09:59:18.000Z",
+    "collectedAt": "2026-05-16T14:26:54.268Z",
+    "isExample": false,
+    "sentiment": "positive",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [
+      "cloud"
+    ],
+    "engagement": 5364,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 5279,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 41,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 12,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_coin",
+        "label": "投币",
+        "value": 4,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply",
+        "label": "评论",
+        "value": 28,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "播放 5,279",
+      "点赞 41",
+      "收藏 12"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-minimax-abab-aHR0cHM6Ly93",
+    "modelId": "minimax-abab",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：薛定猫AI",
+    "title": "【中配】无限免费！MiniMax M2.7 + Hermes、OpenCode、Claude Code - 史上最强免费AI编程神器来了！",
+    "excerpt": "【中配】无限免费！MiniMax M2.7 + Hermes、OpenCode、Claude Code - 史上最强免费AI编程神器来了！ 本视频为AI技术搬运翻译，使用AI智能移除原视频广告营销内容，旨在降低信息差，了解海外最新AI动态。 翻译：薛定猫AI 模型 gemini-2.5-flash-lite, 配音：Edge TTS AI实用工具看下面视频：",
+    "quote": "【中配】无限免费！MiniMax M2.7 + Hermes、OpenCode、Claude Code - 史上最强免费AI编程神器来了！ 本视频为AI技术搬…",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：【中配】无限免费！MiniMax M2.7 + Hermes、OpenCode、Claude Code - 史上最强免费AI编程神器来了！",
+    "url": "https://www.bilibili.com/video/BV1tCQuBiEm9",
+    "sourceUrl": "https://www.bilibili.com/video/BV1tCQuBiEm9",
+    "publishedAt": "2026-04-14T13:17:20.000Z",
+    "collectedAt": "2026-05-16T14:26:54.270Z",
+    "isExample": false,
+    "sentiment": "positive",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [
+      "voice-role",
+      "video"
+    ],
+    "engagement": 7103,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 6779,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 59,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 234,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_coin",
+        "label": "投币",
+        "value": 7,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply",
+        "label": "评论",
+        "value": 24,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "播放 6,779",
+      "点赞 59",
+      "收藏 234"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-minimax-abab-aHR0cHM6Ly93",
+    "modelId": "minimax-abab",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：AI先生李豪",
+    "title": "一条视频学会所有的MiniMax语音高级玩法！",
+    "excerpt": "一条视频学会所有的MiniMax语音高级玩法！ 一条视频带你通关AI语音全玩法！MiniMax语音不只是配音工具，从有声书、新闻播报到音乐创作、音色克隆，三层进阶全搞定！",
+    "quote": "一条视频学会所有的MiniMax语音高级玩法！ 一条视频带你通关AI语音全玩法！MiniMax语音不只是配音工具，从有声书、新闻播报到音乐创作、音色克隆，三层…",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：一条视频学会所有的MiniMax语音高级玩法！",
+    "url": "https://www.bilibili.com/video/BV1vc5v68EWo",
+    "sourceUrl": "https://www.bilibili.com/video/BV1vc5v68EWo",
+    "publishedAt": "2026-05-15T09:30:00.000Z",
+    "collectedAt": "2026-05-16T14:26:54.270Z",
+    "isExample": false,
+    "sentiment": "neutral",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [
+      "voice-role",
+      "video"
+    ],
+    "engagement": 5375,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 5263,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 48,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 51,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_coin",
+        "label": "投币",
+        "value": 7,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply",
+        "label": "评论",
+        "value": 6,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "播放 5,263",
+      "点赞 48",
+      "收藏 51"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-minimax-abab-aHR0cHM6Ly93",
+    "modelId": "minimax-abab",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：__阿岳__",
+    "title": "从minimax到alpha-beta剪枝算法(上)：minimax算法原理介绍",
+    "excerpt": "从minimax到alpha-beta剪枝算法(上)：minimax算法原理介绍 注：颜色表示和表达只是为了视频在观看体验上更加直观。实际上红色层是min层、绿色层是max层。 这个是第一期视频，只讲解了minimax算法，但是由于这个算法时间复杂度太大了导致可能实用性不够高，后面的alpha-beta剪枝算法会继续发布。如果是直接搜到这个视频的观众可以点击",
+    "quote": "从minimax到alpha-beta剪枝算法(上)：minimax算法原理介绍 注：颜色表示和表达只是为了视频在观看体验上更加直观。实际上红色层是min层、…",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：从minimax到alpha-beta剪枝算法(上)：minimax算法原理介绍",
+    "url": "https://www.bilibili.com/video/BV1v94y1r7F8",
+    "sourceUrl": "https://www.bilibili.com/video/BV1v94y1r7F8",
+    "publishedAt": "2023-08-23T00:00:00.000Z",
+    "collectedAt": "2026-05-16T14:26:54.270Z",
+    "isExample": false,
+    "sentiment": "neutral",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [
+      "video"
+    ],
+    "engagement": 37984,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 36115,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 608,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 992,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_coin",
+        "label": "投币",
+        "value": 259,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply",
+        "label": "评论",
+        "value": 10,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "播放 36,115",
+      "点赞 608",
+      "收藏 992"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-baichuan-4-aHR0cHM6Ly93",
+    "modelId": "baichuan-4",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：罗拔丶",
+    "title": "小比例国模也有爱？或许能开启新道路！ —— 罐头番队 第1弹 咆哮猎犬 铁腕 车马炮 百川模型 【罗拔玩不完】",
+    "excerpt": "小比例国模也有爱？或许能开启新道路！ —— 罐头番队 第1弹 咆哮猎犬 铁腕 车马炮 百川模型 【罗拔玩不完】 《罐头番队》瞄准了国模小比例模型市场的冷门和空缺！ 是对MSE单纯的模仿？还是也有自己的特色？ 除了有点贵之外，体验似乎还不错？！ 不要忘记点赞、投币、收藏和关注支持！",
+    "quote": "小比例国模也有爱？或许能开启新道路！ —— 罐头番队 第1弹 咆哮猎犬 铁腕 车马炮 百川模型 【罗拔玩不完】 《罐头番队》瞄准了国模小比例模型市场的冷门和空…",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：小比例国模也有爱？或许能开启新道路！ —— 罐头番队 第1弹 咆哮猎犬 铁腕 车马炮 百川模型 【罗拔玩不完】",
+    "url": "https://www.bilibili.com/video/BV1r6mXYVE1X",
+    "sourceUrl": "https://www.bilibili.com/video/BV1r6mXYVE1X",
+    "publishedAt": "2024-11-15T10:05:00.000Z",
+    "collectedAt": "2026-05-16T14:26:54.271Z",
+    "isExample": false,
+    "sentiment": "negative",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [],
+    "engagement": 20489,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 19625,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 408,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 164,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_coin",
+        "label": "投币",
+        "value": 53,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply",
+        "label": "评论",
+        "value": 239,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "播放 19,625",
+      "点赞 408",
+      "收藏 164"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-baichuan-4-aHR0cHM6Ly93",
+    "modelId": "baichuan-4",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：2045i",
+    "title": "【深海迷航】百川归海整合包地狱难度 P1 开荒收集材料",
+    "excerpt": "【深海迷航】百川归海整合包地狱难度 P1 开荒收集材料 本整合包来自B站up游戏棋子 对本视频感兴趣的同时不要忘记支持原作者 本系列采取地狱难度挑战 改动如下 1.血，水分上限锁90，饱食锁100， 2.饱食1.3倍消耗，水分1.1倍消耗，气1.5倍消耗。 3.氧气罐不会自动填充，需要工作台充气 4.铀矿会散发辐射 5.海虾、巨人、基地提供辐射保护 6.幽灵",
+    "quote": "【深海迷航】百川归海整合包地狱难度 P1 开荒收集材料 本整合包来自B站up游戏棋子 对本视频感兴趣的同时不要忘记支持原作者 本系列采取地狱难度挑战 改动如下…",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：【深海迷航】百川归海整合包地狱难度 P1 开荒收集材料",
+    "url": "https://www.bilibili.com/video/BV17ZWtzDExy",
+    "sourceUrl": "https://www.bilibili.com/video/BV17ZWtzDExy",
+    "publishedAt": "2025-10-18T15:11:24.000Z",
+    "collectedAt": "2026-05-16T14:26:54.271Z",
+    "isExample": false,
+    "sentiment": "negative",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [],
+    "engagement": 44692,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 41384,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 1444,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 1572,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_coin",
+        "label": "投币",
+        "value": 209,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply",
+        "label": "评论",
+        "value": 83,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "播放 41,384",
+      "点赞 1,444",
+      "收藏 1,572"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-baichuan-4-aHR0cHM6Ly93",
+    "modelId": "baichuan-4",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：老怪兽玩具屋",
+    "title": "问题依旧 但很帅 森宝百川之戟简单分享",
+    "excerpt": "问题依旧 但很帅 森宝百川之戟简单分享 这次给大家带来的是森宝积木的百川之戟评测 作为系列的收官之作，之前强国雄风系列存在的老问题，这款套件算是全部都保留下来了。 但整体造型那是真的挺帅的，巨大的裙甲给人一种古代将领的感觉，三叉戟的漆面表现也很棒，也算是给该系列一个不错的结尾了",
+    "quote": "问题依旧 但很帅 森宝百川之戟简单分享 这次给大家带来的是森宝积木的百川之戟评测 作为系列的收官之作，之前强国雄风系列存在的老问题，这款套件算是全部都保留下来…",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：问题依旧 但很帅 森宝百川之戟简单分享",
+    "url": "https://www.bilibili.com/video/BV1U4421X7Q1",
+    "sourceUrl": "https://www.bilibili.com/video/BV1U4421X7Q1",
+    "publishedAt": "2024-06-05T10:14:38.000Z",
+    "collectedAt": "2026-05-16T14:26:54.271Z",
+    "isExample": false,
+    "sentiment": "positive",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [],
+    "engagement": 9682,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 9287,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 249,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 128,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_coin",
+        "label": "投币",
+        "value": 6,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply",
+        "label": "评论",
+        "value": 12,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "播放 9,287",
+      "点赞 249",
+      "收藏 128"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-step-2-aHR0cHM6Ly93",
+    "modelId": "step-2",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：闲人与杂谈",
+    "title": "阶跃星辰 Step-3.5 Flash：极速智能体模型深度测评",
+    "excerpt": "阶跃星辰 Step-3.5 Flash：极速智能体模型深度测评 阶跃星辰 Step-3.5 Flash：极速智能体模型深度测评",
+    "quote": "阶跃星辰 Step-3.5 Flash：极速智能体模型深度测评 阶跃星辰 Step-3.5 Flash：极速智能体模型深度测评",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：阶跃星辰 Step-3.5 Flash：极速智能体模型深度测评",
+    "url": "https://www.bilibili.com/video/BV1upFuzbEUo",
+    "sourceUrl": "https://www.bilibili.com/video/BV1upFuzbEUo",
+    "publishedAt": "2026-02-02T16:31:41.000Z",
+    "collectedAt": "2026-05-16T14:26:54.271Z",
+    "isExample": false,
+    "sentiment": "neutral",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [
+      "agent"
+    ],
+    "engagement": 1275,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 1263,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 3,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 8,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_coin",
+        "label": "投币",
+        "value": 0,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply",
+        "label": "评论",
+        "value": 1,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "播放 1,263",
+      "点赞 3",
+      "收藏 8"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-step-2-aHR0cHM6Ly93",
+    "modelId": "step-2",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：张小珺商业访谈录",
+    "title": "印奇出任阶跃星辰董事长的访谈：聪明人的诱惑、取舍、超长链路残酷淘汰赛、阶跃函数和超多元方程",
+    "excerpt": "印奇出任阶跃星辰董事长的访谈：聪明人的诱惑、取舍、超长链路残酷淘汰赛、阶跃函数和超多元方程 今天的嘉宾是印奇。他在担任智能汽车技术公司千里科技的董事长之外，最近也迎来一个新的身份：出任大模型公司阶跃星辰的董事长。 这次，我和他聊了聊新身份、新阶段与从AI 1.0到2.0转轨与反思。 接下来是我对印奇的访谈。期待2026年，我们和AI共同进步！ 免责声明：本内",
+    "quote": "印奇出任阶跃星辰董事长的访谈：聪明人的诱惑、取舍、超长链路残酷淘汰赛、阶跃函数和超多元方程 今天的嘉宾是印奇。他在担任智能汽车技术公司千里科技的董事长之外，最…",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：印奇出任阶跃星辰董事长的访谈：聪明人的诱惑、取舍、超长链路残酷淘汰赛、阶跃函数和超多元方程",
+    "url": "https://www.bilibili.com/video/BV1ZczaBJE58",
+    "sourceUrl": "https://www.bilibili.com/video/BV1ZczaBJE58",
+    "publishedAt": "2026-01-26T03:04:24.000Z",
+    "collectedAt": "2026-05-16T14:26:54.271Z",
+    "isExample": false,
+    "sentiment": "neutral",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [],
+    "engagement": 105379,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 101112,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 1314,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 2342,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_coin",
+        "label": "投币",
+        "value": 464,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply",
+        "label": "评论",
+        "value": 147,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "播放 101,112",
+      "点赞 1,314",
+      "收藏 2,342"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-step-2-aHR0cHM6Ly93",
+    "modelId": "step-2",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：时间的尘客",
+    "title": "基于MATLAB的任意传递函数下的 阶跃响应、指标分析及系统校正",
+    "excerpt": "基于MATLAB的任意传递函数下的 阶跃响应、指标分析及系统校正 方案实施计划 （1）、模型建立 控制系统模型，是指描述控制系统输入、输出变量以及内部变量之间关系的数学表达式。控制系统模型可分为静态模型和动态模型，静态模型描述的是自动控制系统变量之间的静态关系，动态模型描述的是自动控制系统变量之间的动态关系。最常用、最基本的数学模型是微分方程与差分方程。 （",
+    "quote": "基于MATLAB的任意传递函数下的 阶跃响应、指标分析及系统校正 方案实施计划 （1）、模型建立 控制系统模型，是指描述控制系统输入、输出变量以及内部变量之间…",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：基于MATLAB的任意传递函数下的 阶跃响应、指标分析及系统校正",
+    "url": "https://www.bilibili.com/video/BV1hceGehECz",
+    "sourceUrl": "https://www.bilibili.com/video/BV1hceGehECz",
+    "publishedAt": "2024-08-16T15:00:21.000Z",
+    "collectedAt": "2026-05-16T14:26:54.271Z",
+    "isExample": false,
+    "sentiment": "neutral",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [],
+    "engagement": 9502,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 9442,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 26,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 32,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_coin",
+        "label": "投币",
+        "value": 0,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply",
+        "label": "评论",
+        "value": 2,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "播放 9,442",
+      "点赞 26",
+      "收藏 32"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "hupu-qwen-max-aHR0cHM6Ly9i",
+    "modelId": "qwen-max",
+    "platform": "hupu",
+    "authorLabel": "虎扑用户：虎扑热点小助手",
+    "title": "[流言板]千问3.5成本仅为谷歌大模型5%",
+    "excerpt": "[流言板]千问3.5成本仅为谷歌大模型5% 虎扑02月17日讯 阿里巴巴开源全新一代大模型千问Qwen3.5-Plus，性能媲美Gemini 3 pro，登顶全球最强开源模型。千问3.5实现了底层模型架构的全面革新，此次发布的Qwen3.5-Plus版本总参数为3970亿，激活仅170亿，以小胜大，性能超过万亿参数的Qwen3-Max模型，部署显存占用降低6",
+    "quote": "[流言板]千问3.5成本仅为谷歌大模型5% 虎扑02月17日讯 阿里巴巴开源全新一代大模型千问Qwen3.5-Plus，性能媲美Gemini 3 pro，登顶…",
+    "quoteType": "excerpt",
+    "sourceTitle": "虎扑帖子：[流言板]千问3.5成本仅为谷歌大模型5%",
+    "url": "https://bbs.hupu.com/637532879.html",
+    "sourceUrl": "https://bbs.hupu.com/637532879.html",
+    "publishedAt": "2026-02-17T03:04:13.000Z",
+    "collectedAt": "2026-05-16T14:38:05.433Z",
+    "isExample": false,
+    "sentiment": "positive",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [
+      "coding",
+      "open"
+    ],
+    "engagement": 5,
+    "engagementMetrics": [
+      {
+        "key": "hupu_recommend",
+        "label": "推荐",
+        "value": 1,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "hupu_light",
+        "label": "亮评",
+        "value": 0,
+        "unit": "条",
+        "positive": true
+      },
+      {
+        "key": "hupu_reply",
+        "label": "回复",
+        "value": 4,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "推荐 1",
+      "亮评 0",
+      "回复 4"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "hupu-qwen-max-aHR0cHM6Ly9i",
+    "modelId": "qwen-max",
+    "platform": "hupu",
+    "authorLabel": "虎扑用户：强盗胡子",
+    "title": "问了千问脑震荡的情况 莫慌",
+    "excerpt": "问了千问脑震荡的情况 莫慌 ## ⚠️ 关于文班亚马脑震荡伤情的专业分析### 📰 当前信息核实根据搜索结果，**目前尚未找到马刺官方或NBA官网关于今天（4月22日）开拓者和马刺比赛中文班亚马触发脑震荡协议的正式确认声明**。[[73]]但NBA官网新闻列表中出现了一条\"18分钟前\"发布的标题：*\"Victor Wembanyama leaves ear",
+    "quote": "问了千问脑震荡的情况 莫慌 ## ⚠️ 关于文班亚马脑震荡伤情的专业分析### 📰 当前信息核实根据搜索结果，**目前尚未找到马刺官方或NBA官网关于今天（…",
+    "quoteType": "excerpt",
+    "sourceTitle": "虎扑帖子：问了千问脑震荡的情况 莫慌",
+    "url": "https://bbs.hupu.com/638641294.html",
+    "sourceUrl": "https://bbs.hupu.com/638641294.html",
+    "publishedAt": "2026-04-22T01:38:55.000Z",
+    "collectedAt": "2026-05-16T14:38:05.433Z",
+    "isExample": false,
+    "sentiment": "neutral",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [
+      "writing"
+    ],
+    "engagement": 1,
+    "engagementMetrics": [
+      {
+        "key": "hupu_recommend",
+        "label": "推荐",
+        "value": 1,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "hupu_light",
+        "label": "亮评",
+        "value": 0,
+        "unit": "条",
+        "positive": true
+      },
+      {
+        "key": "hupu_reply",
+        "label": "回复",
+        "value": 0,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "推荐 1",
+      "亮评 0",
+      "回复 0"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "hupu-qwen-max-aHR0cHM6Ly9i",
+    "modelId": "qwen-max",
+    "platform": "hupu",
+    "authorLabel": "虎扑用户：虎扑数码资讯",
+    "title": "[流言板]阿里千问上线表格Agent，在对话中直接生成、编辑Excel文件",
+    "excerpt": "[流言板]阿里千问上线表格Agent，在对话中直接生成、编辑Excel文件 虎扑04月14日讯 阿里千问上线“表格 Agent”，支持在对话中直接生成、编辑 Excel 文件。用户可要求千问检索信息后生成表格，也可将多轮对话内容整理为表格，或基于图片、文件生成。系统通常可在 1–2 分钟内输出可下载的 Excel 文件，无需二次复制粘贴，并支持通过自然语言进",
+    "quote": "[流言板]阿里千问上线表格Agent，在对话中直接生成、编辑Excel文件 虎扑04月14日讯 阿里千问上线“表格 Agent”，支持在对话中直接生成、编辑 …",
+    "quoteType": "excerpt",
+    "sourceTitle": "虎扑帖子：[流言板]阿里千问上线表格Agent，在对话中直接生成、编辑Excel文件",
+    "url": "https://bbs.hupu.com/638456770.html",
+    "sourceUrl": "https://bbs.hupu.com/638456770.html",
+    "publishedAt": "2026-04-14T04:56:31.000Z",
+    "collectedAt": "2026-05-16T14:38:05.433Z",
+    "isExample": false,
+    "sentiment": "neutral",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [
+      "coding"
+    ],
+    "engagement": 1,
+    "engagementMetrics": [
+      {
+        "key": "hupu_recommend",
+        "label": "推荐",
+        "value": 1,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "hupu_light",
+        "label": "亮评",
+        "value": 0,
+        "unit": "条",
+        "positive": true
+      },
+      {
+        "key": "hupu_reply",
+        "label": "回复",
+        "value": 0,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "推荐 1",
+      "亮评 0",
+      "回复 0"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "hupu-deepseek-r1-aHR0cHM6Ly9i",
+    "modelId": "deepseek-r1",
+    "platform": "hupu",
+    "authorLabel": "虎扑用户：筽畾筽畾筽畾筽畾",
+    "title": "「日本最强AI」塌房！扒开代码全是DeepSeek，日本网友集体破防",
+    "excerpt": "「日本最强AI」塌房！扒开代码全是DeepSeek，日本网友集体破防 3月18日消息，据媒体报道，日本乐天集团在17日刚高调发布号称“日本国内最大规模”的高性能AI模型Rakuten AI 3.0，结果不到12小时就被技术社区扒得底朝天，直接实锤核心架构全抄中国深度求索的开源模型DeepSeek V3，初期还完全没标注原创方，引爆日本全网舆论。报道称，网友直",
+    "quote": "「日本最强AI」塌房！扒开代码全是DeepSeek，日本网友集体破防 3月18日消息，据媒体报道，日本乐天集团在17日刚高调发布号称“日本国内最大规模”的高性…",
+    "quoteType": "excerpt",
+    "sourceTitle": "虎扑帖子：「日本最强AI」塌房！扒开代码全是DeepSeek，日本网友集体破防",
+    "url": "https://bbs.hupu.com/637990491.html",
+    "sourceUrl": "https://bbs.hupu.com/637990491.html",
+    "publishedAt": "2026-03-19T13:31:49.000Z",
+    "collectedAt": "2026-05-16T14:38:05.445Z",
+    "isExample": false,
+    "sentiment": "positive",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [
+      "coding",
+      "open-cost"
+    ],
+    "engagement": 213,
+    "engagementMetrics": [
+      {
+        "key": "hupu_recommend",
+        "label": "推荐",
+        "value": 93,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "hupu_light",
+        "label": "亮评",
+        "value": 0,
+        "unit": "条",
+        "positive": true
+      },
+      {
+        "key": "hupu_reply",
+        "label": "回复",
+        "value": 120,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "推荐 93",
+      "亮评 0",
+      "回复 120"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "hupu-deepseek-r1-aHR0cHM6Ly9i",
+    "modelId": "deepseek-r1",
+    "platform": "hupu",
+    "authorLabel": "虎扑用户：虎扑数码资讯",
+    "title": "[流言板]DeepSeek还在发力：官宣下周陆续开源5个代码库",
+    "excerpt": "[流言板]DeepSeek还在发力：官宣下周陆续开源5个代码库 2月21日消息，DeepSeek今日宣布，接下来一周，会陆续开源5个代码库，每日都有新内容解锁，“毫无保留地分享我们微小但真诚的进展”。DeepSeek介绍，当前在线服务的模块已经经过测试、部署完备，",
+    "quote": "[流言板]DeepSeek还在发力：官宣下周陆续开源5个代码库 2月21日消息，DeepSeek今日宣布，接下来一周，会陆续开源5个代码库，每日都有新内容解锁…",
+    "quoteType": "excerpt",
+    "sourceTitle": "虎扑帖子：[流言板]DeepSeek还在发力：官宣下周陆续开源5个代码库",
+    "url": "https://bbs.hupu.com/630693524.html",
+    "sourceUrl": "https://bbs.hupu.com/630693524.html",
+    "publishedAt": "2025-02-21T07:25:48.000Z",
+    "collectedAt": "2026-05-16T14:38:05.445Z",
+    "isExample": false,
+    "sentiment": "positive",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [
+      "coding",
+      "open-cost"
+    ],
+    "engagement": 13,
+    "engagementMetrics": [
+      {
+        "key": "hupu_recommend",
+        "label": "推荐",
+        "value": 3,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "hupu_light",
+        "label": "亮评",
+        "value": 3,
+        "unit": "条",
+        "positive": true
+      },
+      {
+        "key": "hupu_reply",
+        "label": "回复",
+        "value": 7,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "推荐 3",
+      "亮评 3",
+      "回复 7"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "hupu-kimi-k2-aHR0cHM6Ly9i",
+    "modelId": "kimi-k2",
+    "platform": "hupu",
+    "authorLabel": "虎扑用户：虎扑数码资讯",
+    "title": "[流言板]月之暗面最强模型Kimi K2.6发布并开源",
+    "excerpt": "[流言板]月之暗面最强模型Kimi K2.6发布并开源 虎扑04月21日讯 月之暗面昨天发布并开源了其最新模型 Kimi K2.6，该模型在代码编写、长程任务执行及 Agent 集群能力方面实现了全面升级。即日起，所有用户均可通过官网、最新版 Kimi 应用、Kimi API 以及 Kimi Code 编程助手使用该模型。据官方披露，Kimi K2.6 在博",
+    "quote": "[流言板]月之暗面最强模型Kimi K2.6发布并开源 虎扑04月21日讯 月之暗面昨天发布并开源了其最新模型 Kimi K2.6，该模型在代码编写、长程任务…",
+    "quoteType": "excerpt",
+    "sourceTitle": "虎扑帖子：[流言板]月之暗面最强模型Kimi K2.6发布并开源",
+    "url": "https://bbs.hupu.com/638623749.html",
+    "sourceUrl": "https://bbs.hupu.com/638623749.html",
+    "publishedAt": "2026-04-21T03:00:29.000Z",
+    "collectedAt": "2026-05-16T14:38:05.447Z",
+    "isExample": false,
+    "sentiment": "positive",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [
+      "agent"
+    ],
+    "engagement": 2,
+    "engagementMetrics": [
+      {
+        "key": "hupu_recommend",
+        "label": "推荐",
+        "value": 1,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "hupu_light",
+        "label": "亮评",
+        "value": 0,
+        "unit": "条",
+        "positive": true
+      },
+      {
+        "key": "hupu_reply",
+        "label": "回复",
+        "value": 1,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "推荐 1",
+      "亮评 0",
+      "回复 1"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "hupu-kimi-k2-aHR0cHM6Ly9i",
+    "modelId": "kimi-k2",
+    "platform": "hupu",
+    "authorLabel": "虎扑用户：丿卡卡卡卡",
+    "title": "【用Deepseek搭配Kimi一分钟自动做高质量PPT!!!】建议收藏！",
+    "excerpt": "【用Deepseek搭配Kimi一分钟自动做高质量PPT!!!】建议收藏！",
+    "quote": "【用Deepseek搭配Kimi一分钟自动做高质量PPT!!!】建议收藏！",
+    "quoteType": "excerpt",
+    "sourceTitle": "虎扑帖子：【用Deepseek搭配Kimi一分钟自动做高质量PPT!!!】建议收藏！",
+    "url": "https://bbs.hupu.com/630465295.html",
+    "sourceUrl": "https://bbs.hupu.com/630465295.html",
+    "publishedAt": "2025-02-08T04:56:13.000Z",
+    "collectedAt": "2026-05-16T14:38:05.447Z",
+    "isExample": false,
+    "sentiment": "neutral",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [],
+    "engagement": 5871,
+    "engagementMetrics": [
+      {
+        "key": "hupu_recommend",
+        "label": "推荐",
+        "value": 4028,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "hupu_light",
+        "label": "亮评",
+        "value": 34,
+        "unit": "条",
+        "positive": true
+      },
+      {
+        "key": "hupu_reply",
+        "label": "回复",
+        "value": 1809,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "推荐 4,028",
+      "亮评 34",
+      "回复 1,809"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "hupu-doubao-pro-aHR0cHM6Ly9i",
+    "modelId": "doubao-pro",
+    "platform": "hupu",
+    "authorLabel": "虎扑用户：人生若只如初见个嘚",
+    "title": "刚豆包搜的，这是真的假的，那里能看相关视频",
+    "excerpt": "刚豆包搜的，这是真的假的，那里能看相关视频 刚豆包搜的，这是真的假的，那里能看相关视频",
+    "quote": "刚豆包搜的，这是真的假的，那里能看相关视频 刚豆包搜的，这是真的假的，那里能看相关视频",
+    "quoteType": "excerpt",
+    "sourceTitle": "虎扑帖子：刚豆包搜的，这是真的假的，那里能看相关视频",
+    "url": "https://bbs.hupu.com/639248673.html",
+    "sourceUrl": "https://bbs.hupu.com/639248673.html",
+    "publishedAt": "2026-05-13T03:13:32.000Z",
+    "collectedAt": "2026-05-16T14:38:05.449Z",
+    "isExample": false,
+    "sentiment": "neutral",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [
+      "creative"
+    ],
+    "engagement": 16,
+    "engagementMetrics": [
+      {
+        "key": "hupu_recommend",
+        "label": "推荐",
+        "value": 3,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "hupu_light",
+        "label": "亮评",
+        "value": 0,
+        "unit": "条",
+        "positive": true
+      },
+      {
+        "key": "hupu_reply",
+        "label": "回复",
+        "value": 13,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "推荐 3",
+      "亮评 0",
+      "回复 13"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-ernie-4-aHR0cHM6Ly93",
+    "modelId": "ernie-4",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：十方三棱镜",
+    "title": "文心大模型API的简单使用方法",
+    "excerpt": "文心大模型API的简单使用方法 文心大模型API的简单使用方法",
+    "quote": "文心大模型API的简单使用方法 文心大模型API的简单使用方法",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：文心大模型API的简单使用方法",
+    "url": "https://www.bilibili.com/video/BV1Hc411V7ae",
+    "sourceUrl": "https://www.bilibili.com/video/BV1Hc411V7ae",
+    "publishedAt": "2023-06-02T10:44:36.000Z",
+    "collectedAt": "2026-05-16T14:38:05.449Z",
+    "isExample": false,
+    "sentiment": "neutral",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [
+      "api"
+    ],
+    "engagement": 13048,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 12770,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 70,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 175,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_coin",
+        "label": "投币",
+        "value": 21,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply",
+        "label": "评论",
+        "value": 12,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "播放 12,770",
+      "点赞 70",
+      "收藏 175"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-ernie-4-aHR0cHM6Ly93",
+    "modelId": "ernie-4",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：rogabetnote130",
+    "title": "350-工具条上的百度文心-ernie5.1高级AI搜索",
+    "excerpt": "350-工具条上的百度文心-ernie5.1高级AI搜索 -",
+    "quote": "350-工具条上的百度文心-ernie5.1高级AI搜索 -",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：350-工具条上的百度文心-ernie5.1高级AI搜索",
+    "url": "https://www.bilibili.com/video/BV1CS5469EVh",
+    "sourceUrl": "https://www.bilibili.com/video/BV1CS5469EVh",
+    "publishedAt": "2026-05-11T07:48:23.000Z",
+    "collectedAt": "2026-05-16T14:38:05.449Z",
+    "isExample": false,
+    "sentiment": "neutral",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [
+      "search"
+    ],
+    "engagement": 1442,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 1422,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 9,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 7,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_coin",
+        "label": "投币",
+        "value": 2,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply",
+        "label": "评论",
+        "value": 2,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "播放 1,422",
+      "点赞 9",
+      "收藏 7"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-ernie-4-aHR0cHM6Ly93",
+    "modelId": "ernie-4",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：完美逗典学堂",
+    "title": "AI绘画，文心一格 软件操作指南，AI关键词生成人物绘画 #文心一言 #文心一格",
+    "excerpt": "AI绘画，文心一格 软件操作指南，AI关键词生成人物绘画 #文心一言 #文心一格 AI绘画系列教程，共6个视频，持续更新中",
+    "quote": "AI绘画，文心一格 软件操作指南，AI关键词生成人物绘画 #文心一言 #文心一格 AI绘画系列教程，共6个视频，持续更新中",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：AI绘画，文心一格 软件操作指南，AI关键词生成人物绘画 #文心一言 #文心一格",
+    "url": "https://www.bilibili.com/video/BV1Wv4y157hV",
+    "sourceUrl": "https://www.bilibili.com/video/BV1Wv4y157hV",
+    "publishedAt": "2023-03-22T08:54:00.000Z",
+    "collectedAt": "2026-05-16T14:38:05.449Z",
+    "isExample": false,
+    "sentiment": "neutral",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [],
+    "engagement": 14269,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 14016,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 92,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 131,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_coin",
+        "label": "投币",
+        "value": 8,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply",
+        "label": "评论",
+        "value": 22,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "播放 14,016",
+      "点赞 92",
+      "收藏 131"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-hunyuan-turbos-aHR0cHM6Ly93",
+    "modelId": "hunyuan-turbos",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：西村周作",
+    "title": "冯志强大师-陈式心意混元太极拳24式.示范教学（音视频优化+全字幕外挂）",
+    "excerpt": "冯志强大师-陈式心意混元太极拳24式.示范教学（音视频优化+全字幕外挂） 对原视频进行了音频优化（左右声道混合、提升人声音量，降低BGM音量、修复了部分音画不同步问题；BGM为古琴曲：李祥霆 - 鷗鷺忘機），将视频加了清晰化滤镜，机器识别外挂字幕，粗略看了下，识别正确率比较高，就未在一一校对。原视频为：中华武林百杰-大众推广普及套路系列光碟，陈式太极传统系列",
+    "quote": "冯志强大师-陈式心意混元太极拳24式.示范教学（音视频优化+全字幕外挂） 对原视频进行了音频优化（左右声道混合、提升人声音量，降低BGM音量、修复了部分音画不…",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：冯志强大师-陈式心意混元太极拳24式.示范教学（音视频优化+全字幕外挂）",
+    "url": "https://www.bilibili.com/video/BV1VVVxz2EZY",
+    "sourceUrl": "https://www.bilibili.com/video/BV1VVVxz2EZY",
+    "publishedAt": "2025-05-07T02:04:24.000Z",
+    "collectedAt": "2026-05-16T14:38:05.450Z",
+    "isExample": false,
+    "sentiment": "positive",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [],
+    "engagement": 19173,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 18109,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 207,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 814,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_coin",
+        "label": "投币",
+        "value": 32,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply",
+        "label": "评论",
+        "value": 11,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "播放 18,109",
+      "点赞 207",
+      "收藏 814"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-hunyuan-turbos-aHR0cHM6Ly93",
+    "modelId": "hunyuan-turbos",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：唔食车仔面",
+    "title": "寻仙自己一个人混元周任务老一老二不敢打？看完就会打了",
+    "excerpt": "寻仙自己一个人混元周任务老一老二不敢打？看完就会打了 虽然知道可以坐车过任务，但是还是想说自己打也很cool",
+    "quote": "寻仙自己一个人混元周任务老一老二不敢打？看完就会打了 虽然知道可以坐车过任务，但是还是想说自己打也很cool",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：寻仙自己一个人混元周任务老一老二不敢打？看完就会打了",
+    "url": "https://www.bilibili.com/video/BV1kaWFesETD",
+    "sourceUrl": "https://www.bilibili.com/video/BV1kaWFesETD",
+    "publishedAt": "2024-08-17T16:36:59.000Z",
+    "collectedAt": "2026-05-16T14:38:05.450Z",
+    "isExample": false,
+    "sentiment": "neutral",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [],
+    "engagement": 5820,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 5684,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 46,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 50,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_coin",
+        "label": "投币",
+        "value": 25,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply",
+        "label": "评论",
+        "value": 15,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "播放 5,684",
+      "点赞 46",
+      "收藏 50"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "bilibili-kimi-k2-gzolua",
+    "modelId": "kimi-k2",
+    "platform": "bilibili",
+    "authorLabel": "B站创作者：鲲鹏Talk",
+    "title": "Kimi 发布Kimi Claw，0基础上手原生OpenClaw，我让Kimi在飞书里7x24小时替我打工",
+    "excerpt": "Kimi 发布Kimi Claw，0基础上手原生OpenClaw，我让Kimi在飞书里7x24小时替我打工 还在为重复性工作头疼？今天手把手教你用 Kimi 强大的 Tool Calling 能力，30秒快速集成到飞书，打造专属AI自动化助手！ 需代码基础，只需199元/月的会员，就能让Kimi自动处理文档分析、数据提取、会议纪要生成等繁琐任务，真正实现\"一",
+    "quote": "Kimi 发布Kimi Claw，0基础上手原生OpenClaw，我让Kimi在飞书里7x24小时替我打工 还在为重复性工作头疼？今天手把手教你用 Kimi …",
+    "quoteType": "excerpt",
+    "sourceTitle": "B站视频：Kimi 发布Kimi Claw，0基础上手原生OpenClaw，我让Kimi在飞书里7x24小时替我打工",
+    "url": "https://www.bilibili.com/video/BV119ZtBAEe3",
+    "sourceUrl": "https://www.bilibili.com/video/BV119ZtBAEe3",
+    "publishedAt": "2026-02-15T13:33:50.000Z",
+    "collectedAt": "2026-05-16T14:39:31.190Z",
+    "isExample": false,
+    "sentiment": "positive",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [
+      "agent"
+    ],
+    "engagement": 130915,
+    "engagementMetrics": [
+      {
+        "key": "bilibili_view",
+        "label": "播放",
+        "value": 126408,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_like",
+        "label": "点赞",
+        "value": 1130,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_favorite",
+        "label": "收藏",
+        "value": 2687,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_coin",
+        "label": "投币",
+        "value": 309,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "bilibili_reply",
+        "label": "评论",
+        "value": 381,
+        "unit": "条",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "播放 126,408",
+      "点赞 1,130",
+      "收藏 2,687"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "tieba-deepseek-r1-1si9l0z",
+    "modelId": "deepseek-r1",
+    "platform": "tieba",
+    "authorLabel": "贴吧用户",
+    "title": "酒馆搭建deepseek可以随便玩吗-百度贴吧",
+    "excerpt": "1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 发贴 登录 首页 我的 吴世晗_ grok1 05-15 四川 关注 酒馆搭建deepseek可以随便玩吗 主要是用来写小说玩，看中了deepseek的写作能力，奈何本人喜欢瑟瑟 本土的用不了… 就想着试试deepseek api，但是看有人说有时候还是会被拒而且官方可以看到内容？我就有",
+    "quote": "1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 发贴 登录 首页 我的 吴世晗_ grok1 05-15 四川 关注 酒馆搭建deep…",
+    "quoteType": "excerpt",
+    "sourceTitle": "贴吧内容：酒馆搭建deepseek可以随便玩吗-百度贴吧",
+    "url": "https://tieba.baidu.com/p/10717792730?fr=undefined",
+    "sourceUrl": "https://tieba.baidu.com/p/10717792730?fr=undefined",
+    "publishedAt": "2026-05-16T14:52:41.927Z",
+    "collectedAt": "2026-05-16T14:52:41.927Z",
+    "isExample": false,
+    "sentiment": "neutral",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [
+      "open-cost"
+    ],
+    "engagement": 71,
+    "engagementMetrics": [
+      {
+        "key": "tieba_browser_0",
+        "label": "转发",
+        "value": 19,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "tieba_browser_1",
+        "label": "回复",
+        "value": 19,
+        "unit": "次",
+        "positive": false
+      },
+      {
+        "key": "tieba_browser_2",
+        "label": "回复",
+        "value": 33,
+        "unit": "次",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "转发 19次"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "tieba-deepseek-r1-n2e7sz",
+    "modelId": "deepseek-r1",
+    "platform": "tieba",
+    "authorLabel": "贴吧用户",
+    "title": "信豆包还是DeepSeek？-百度贴吧",
+    "excerpt": "1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 钓鱼 吧 发贴 登录 首页 我的 大家都在逛的吧 抗压背锅 吧 三角洲行动陪玩 吧 孙笑川 吧 lol陪玩 吧 kpl 吧 cs赛事 吧 鸣潮爆料 吧 bilibili 吧 崩坏星穹铁道内鬼 吧 尐家军 吧 asoul 吧 碧蓝航线 吧 洛克王国手游 吧 第五人格交易 吧 三角洲行动 吧",
+    "quote": "1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 钓鱼 吧 发贴 登录 首页 我的 大家都在逛的吧 抗压背锅 吧 三角洲行动陪玩 吧 孙…",
+    "quoteType": "excerpt",
+    "sourceTitle": "贴吧内容：信豆包还是DeepSeek？-百度贴吧",
+    "url": "https://tieba.baidu.com/p/10714121041?fr=undefined",
+    "sourceUrl": "https://tieba.baidu.com/p/10714121041?fr=undefined",
+    "publishedAt": "2026-05-16T14:52:34.922Z",
+    "collectedAt": "2026-05-16T14:52:34.924Z",
+    "isExample": false,
+    "sentiment": "neutral",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [],
+    "engagement": 346,
+    "engagementMetrics": [
+      {
+        "key": "tieba_browser_0",
+        "label": "转发",
+        "value": 173,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "tieba_browser_1",
+        "label": "回复",
+        "value": 173,
+        "unit": "次",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "转发 173次"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "tieba-deepseek-r1-13aq10y",
+    "modelId": "deepseek-r1",
+    "platform": "tieba",
+    "authorLabel": "贴吧用户",
+    "title": "信豆包还是DeepSeek？-百度贴吧",
+    "excerpt": "1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 钓鱼 吧 发贴 登录 首页 我的 大家都在逛的吧 抗压背锅 吧 三角洲行动陪玩 吧 孙笑川 吧 lol陪玩 吧 kpl 吧 cs赛事 吧 鸣潮爆料 吧 bilibili 吧 崩坏星穹铁道内鬼 吧 尐家军 吧 asoul 吧 碧蓝航线 吧 洛克王国手游 吧 第五人格交易 吧 三角洲行动 吧",
+    "quote": "1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 钓鱼 吧 发贴 登录 首页 我的 大家都在逛的吧 抗压背锅 吧 三角洲行动陪玩 吧 孙…",
+    "quoteType": "excerpt",
+    "sourceTitle": "贴吧内容：信豆包还是DeepSeek？-百度贴吧",
+    "url": "https://tieba.baidu.com/p/10714121041?showComment=1",
+    "sourceUrl": "https://tieba.baidu.com/p/10714121041?showComment=1",
+    "publishedAt": "2026-05-16T14:52:38.494Z",
+    "collectedAt": "2026-05-16T14:52:38.494Z",
+    "isExample": false,
+    "sentiment": "neutral",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [],
+    "engagement": 346,
+    "engagementMetrics": [
+      {
+        "key": "tieba_browser_0",
+        "label": "转发",
+        "value": 173,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "tieba_browser_1",
+        "label": "回复",
+        "value": 173,
+        "unit": "次",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "转发 173次"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "tieba-ernie-4-gvetnb",
+    "modelId": "ernie-4",
+    "platform": "tieba",
+    "authorLabel": "贴吧用户",
+    "title": "谁知道最新的文心一言怎么样了，好用吗-百度贴吧",
+    "excerpt": "1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 发贴 登录 首页 我的 大家都在逛的吧 抗压背锅 吧 三角洲行动陪玩 吧 孙笑川 吧 lol陪玩 吧 kpl 吧 cs赛事 吧 鸣潮爆料 吧 bilibili 吧 崩坏星穹铁道内鬼 吧 尐家军 吧 asoul 吧 碧蓝航线 吧 洛克王国手游 吧 第五人格交易 吧 三角洲行动 吧 2ch ",
+    "quote": "1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 发贴 登录 首页 我的 大家都在逛的吧 抗压背锅 吧 三角洲行动陪玩 吧 孙笑川 吧 …",
+    "quoteType": "excerpt",
+    "sourceTitle": "贴吧内容：谁知道最新的文心一言怎么样了，好用吗-百度贴吧",
+    "url": "https://tieba.baidu.com/p/10671748804?fr=undefined",
+    "sourceUrl": "https://tieba.baidu.com/p/10671748804?fr=undefined",
+    "publishedAt": "2026-05-16T15:00:19.694Z",
+    "collectedAt": "2026-05-16T15:00:19.694Z",
+    "isExample": false,
+    "sentiment": "positive",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [
+      "search"
+    ],
+    "engagement": 123321293,
+    "engagementMetrics": [
+      {
+        "key": "tieba_browser_0",
+        "label": "转发",
+        "value": 90,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "tieba_browser_1",
+        "label": "回复",
+        "value": 90,
+        "unit": "次",
+        "positive": false
+      },
+      {
+        "key": "tieba_browser_2",
+        "label": "回复",
+        "value": 123321113,
+        "unit": "次",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "转发 90次"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "tieba-ernie-4-1lyd646",
+    "modelId": "ernie-4",
+    "platform": "tieba",
+    "authorLabel": "贴吧用户",
+    "title": "谁知道最新的文心一言怎么样了，好用吗-百度贴吧",
+    "excerpt": "1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 sillytavern 吧 发贴 登录 首页 我的 大家都在逛的吧 抗压背锅 吧 三角洲行动陪玩 吧 孙笑川 吧 lol陪玩 吧 kpl 吧 cs赛事 吧 鸣潮爆料 吧 bilibili 吧 崩坏星穹铁道内鬼 吧 尐家军 吧 asoul 吧 碧蓝航线 吧 洛克王国手游 吧 第五人格交易 ",
+    "quote": "1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 sillytavern 吧 发贴 登录 首页 我的 大家都在逛的吧 抗压背锅 吧 三角…",
+    "quoteType": "excerpt",
+    "sourceTitle": "贴吧内容：谁知道最新的文心一言怎么样了，好用吗-百度贴吧",
+    "url": "https://tieba.baidu.com/p/10671748804?showComment=1",
+    "sourceUrl": "https://tieba.baidu.com/p/10671748804?showComment=1",
+    "publishedAt": "2026-05-16T15:00:23.035Z",
+    "collectedAt": "2026-05-16T15:00:23.035Z",
+    "isExample": false,
+    "sentiment": "positive",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [
+      "search"
+    ],
+    "engagement": 123321293,
+    "engagementMetrics": [
+      {
+        "key": "tieba_browser_0",
+        "label": "转发",
+        "value": 90,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "tieba_browser_1",
+        "label": "回复",
+        "value": 90,
+        "unit": "次",
+        "positive": false
+      },
+      {
+        "key": "tieba_browser_2",
+        "label": "回复",
+        "value": 123321113,
+        "unit": "次",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "转发 90次"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "tieba-ernie-4-txxerl",
+    "modelId": "ernie-4",
+    "platform": "tieba",
+    "authorLabel": "贴吧用户",
+    "title": "现在除了文心哪个提功力最快，是棋子吗-百度贴吧",
+    "excerpt": "1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 凤求凰 吧 发贴 登录 首页 我的 大家都在逛的吧 抗压背锅 吧 三角洲行动陪玩 吧 孙笑川 吧 lol陪玩 吧 kpl 吧 cs赛事 吧 鸣潮爆料 吧 bilibili 吧 崩坏星穹铁道内鬼 吧 尐家军 吧 asoul 吧 碧蓝航线 吧 洛克王国手游 吧 第五人格交易 吧 三角洲行动 ",
+    "quote": "1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 凤求凰 吧 发贴 登录 首页 我的 大家都在逛的吧 抗压背锅 吧 三角洲行动陪玩 吧 …",
+    "quoteType": "excerpt",
+    "sourceTitle": "贴吧内容：现在除了文心哪个提功力最快，是棋子吗-百度贴吧",
+    "url": "https://tieba.baidu.com/p/10679565126?fr=undefined",
+    "sourceUrl": "https://tieba.baidu.com/p/10679565126?fr=undefined",
+    "publishedAt": "2026-05-16T15:00:33.094Z",
+    "collectedAt": "2026-05-16T15:00:33.094Z",
+    "isExample": false,
+    "sentiment": "negative",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [
+      "search"
+    ],
+    "engagement": 34,
+    "engagementMetrics": [
+      {
+        "key": "tieba_browser_0",
+        "label": "转发",
+        "value": 17,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "tieba_browser_1",
+        "label": "回复",
+        "value": 17,
+        "unit": "次",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "转发 17次"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "tieba-hunyuan-turbos-1ixakn",
+    "modelId": "hunyuan-turbos",
+    "platform": "tieba",
+    "authorLabel": "贴吧用户",
+    "title": "现在四混元脉还有出路吗-百度贴吧",
+    "excerpt": "1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 烟雨江湖 吧 发贴 登录 首页 我的 大家都在逛的吧 抗压背锅 吧 三角洲行动陪玩 吧 孙笑川 吧 lol陪玩 吧 kpl 吧 cs赛事 吧 鸣潮爆料 吧 bilibili 吧 崩坏星穹铁道内鬼 吧 尐家军 吧 asoul 吧 碧蓝航线 吧 洛克王国手游 吧 第五人格交易 吧 三角洲行动",
+    "quote": "1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 烟雨江湖 吧 发贴 登录 首页 我的 大家都在逛的吧 抗压背锅 吧 三角洲行动陪玩 吧…",
+    "quoteType": "excerpt",
+    "sourceTitle": "贴吧内容：现在四混元脉还有出路吗-百度贴吧",
+    "url": "https://tieba.baidu.com/p/10714885295?fr=undefined",
+    "sourceUrl": "https://tieba.baidu.com/p/10714885295?fr=undefined",
+    "publishedAt": "2026-05-16T15:05:30.171Z",
+    "collectedAt": "2026-05-16T15:05:30.171Z",
+    "isExample": false,
+    "sentiment": "neutral",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [],
+    "engagement": 28,
+    "engagementMetrics": [
+      {
+        "key": "tieba_browser_0",
+        "label": "转发",
+        "value": 14,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "tieba_browser_1",
+        "label": "回复",
+        "value": 14,
+        "unit": "次",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "转发 14次"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "tieba-hunyuan-turbos-60asjq",
+    "modelId": "hunyuan-turbos",
+    "platform": "tieba",
+    "authorLabel": "贴吧用户",
+    "title": "现在四混元脉还有出路吗-百度贴吧",
+    "excerpt": "1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 烟雨江湖 吧 发贴 登录 首页 我的 大家都在逛的吧 抗压背锅 吧 三角洲行动陪玩 吧 孙笑川 吧 lol陪玩 吧 kpl 吧 cs赛事 吧 鸣潮爆料 吧 bilibili 吧 崩坏星穹铁道内鬼 吧 尐家军 吧 asoul 吧 碧蓝航线 吧 洛克王国手游 吧 第五人格交易 吧 三角洲行动",
+    "quote": "1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 烟雨江湖 吧 发贴 登录 首页 我的 大家都在逛的吧 抗压背锅 吧 三角洲行动陪玩 吧…",
+    "quoteType": "excerpt",
+    "sourceTitle": "贴吧内容：现在四混元脉还有出路吗-百度贴吧",
+    "url": "https://tieba.baidu.com/p/10714885295?showComment=1",
+    "sourceUrl": "https://tieba.baidu.com/p/10714885295?showComment=1",
+    "publishedAt": "2026-05-16T15:05:33.512Z",
+    "collectedAt": "2026-05-16T15:05:33.512Z",
+    "isExample": false,
+    "sentiment": "neutral",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [],
+    "engagement": 28,
+    "engagementMetrics": [
+      {
+        "key": "tieba_browser_0",
+        "label": "转发",
+        "value": 14,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "tieba_browser_1",
+        "label": "回复",
+        "value": 14,
+        "unit": "次",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "转发 14次"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "tieba-hunyuan-turbos-id9fl3",
+    "modelId": "hunyuan-turbos",
+    "platform": "tieba",
+    "authorLabel": "贴吧用户",
+    "title": "楼主准备持诵许天师宝诰-百度贴吧",
+    "excerpt": "1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 道教 吧 发贴 登录 首页 我的 大家都在逛的吧 抗压背锅 吧 三角洲行动陪玩 吧 孙笑川 吧 lol陪玩 吧 kpl 吧 cs赛事 吧 鸣潮爆料 吧 bilibili 吧 崩坏星穹铁道内鬼 吧 尐家军 吧 asoul 吧 碧蓝航线 吧 洛克王国手游 吧 第五人格交易 吧 三角洲行动 吧",
+    "quote": "1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 道教 吧 发贴 登录 首页 我的 大家都在逛的吧 抗压背锅 吧 三角洲行动陪玩 吧 孙…",
+    "quoteType": "excerpt",
+    "sourceTitle": "贴吧内容：楼主准备持诵许天师宝诰-百度贴吧",
+    "url": "https://tieba.baidu.com/p/10713149853?fr=undefined",
+    "sourceUrl": "https://tieba.baidu.com/p/10713149853?fr=undefined",
+    "publishedAt": "2026-05-16T15:05:43.516Z",
+    "collectedAt": "2026-05-16T15:05:43.516Z",
+    "isExample": false,
+    "sentiment": "neutral",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [],
+    "engagement": 28,
+    "engagementMetrics": [
+      {
+        "key": "tieba_browser_0",
+        "label": "转发",
+        "value": 14,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "tieba_browser_1",
+        "label": "回复",
+        "value": 14,
+        "unit": "次",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "转发 14次"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "tieba-baichuan-4-6eszfo",
+    "modelId": "baichuan-4",
+    "platform": "tieba",
+    "authorLabel": "贴吧用户",
+    "title": "谁是百川 百川是谁-百度贴吧",
+    "excerpt": "1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 尐家军 吧 发贴 登录 首页 我的 大家都在逛的吧 抗压背锅 吧 三角洲行动陪玩 吧 孙笑川 吧 lol陪玩 吧 kpl 吧 cs赛事 吧 鸣潮爆料 吧 bilibili 吧 崩坏星穹铁道内鬼 吧 尐家军 吧 asoul 吧 碧蓝航线 吧 洛克王国手游 吧 第五人格交易 吧 三角洲行动 ",
+    "quote": "1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 尐家军 吧 发贴 登录 首页 我的 大家都在逛的吧 抗压背锅 吧 三角洲行动陪玩 吧 …",
+    "quoteType": "excerpt",
+    "sourceTitle": "贴吧内容：谁是百川 百川是谁-百度贴吧",
+    "url": "https://tieba.baidu.com/p/9564756361?showComment=1",
+    "sourceUrl": "https://tieba.baidu.com/p/9564756361?showComment=1",
+    "publishedAt": "2026-05-16T15:10:51.766Z",
+    "collectedAt": "2026-05-16T15:10:51.766Z",
+    "isExample": false,
+    "sentiment": "positive",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [],
+    "engagement": 21000114,
+    "engagementMetrics": [
+      {
+        "key": "tieba_browser_0",
+        "label": "转发",
+        "value": 57,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "tieba_browser_1",
+        "label": "回复",
+        "value": 57,
+        "unit": "次",
+        "positive": false
+      },
+      {
+        "key": "tieba_browser_2",
+        "label": "回复",
+        "value": 7000000,
+        "unit": "次",
+        "positive": false
+      },
+      {
+        "key": "tieba_browser_3",
+        "label": "回复",
+        "value": 7000000,
+        "unit": "次",
+        "positive": false
+      },
+      {
+        "key": "tieba_browser_4",
+        "label": "回复",
+        "value": 7000000,
+        "unit": "次",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "转发 57次"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "tieba-baichuan-4-1vj0jj1",
+    "modelId": "baichuan-4",
+    "platform": "tieba",
+    "authorLabel": "贴吧用户",
+    "title": "谁是百川 百川是谁-百度贴吧",
+    "excerpt": "1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 尐家军 吧 发贴 登录 首页 我的 大家都在逛的吧 抗压背锅 吧 三角洲行动陪玩 吧 孙笑川 吧 lol陪玩 吧 kpl 吧 cs赛事 吧 鸣潮爆料 吧 bilibili 吧 崩坏星穹铁道内鬼 吧 尐家军 吧 asoul 吧 碧蓝航线 吧 洛克王国手游 吧 第五人格交易 吧 三角洲行动 ",
+    "quote": "1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 尐家军 吧 发贴 登录 首页 我的 大家都在逛的吧 抗压背锅 吧 三角洲行动陪玩 吧 …",
+    "quoteType": "excerpt",
+    "sourceTitle": "贴吧内容：谁是百川 百川是谁-百度贴吧",
+    "url": "https://tieba.baidu.com/p/9564756361?fr=undefined",
+    "sourceUrl": "https://tieba.baidu.com/p/9564756361?fr=undefined",
+    "publishedAt": "2026-05-16T15:10:48.491Z",
+    "collectedAt": "2026-05-16T15:10:48.491Z",
+    "isExample": false,
+    "sentiment": "positive",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [],
+    "engagement": 114,
+    "engagementMetrics": [
+      {
+        "key": "tieba_browser_0",
+        "label": "转发",
+        "value": 57,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "tieba_browser_1",
+        "label": "回复",
+        "value": 57,
+        "unit": "次",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "转发 57次"
+    ],
+    "auditStatus": "approved"
+  },
+  {
+    "id": "tieba-baichuan-4-1ohomj0",
+    "modelId": "baichuan-4",
+    "platform": "tieba",
+    "authorLabel": "贴吧用户",
+    "title": "求，河北 百川燃气，走🐟-百度贴吧",
+    "excerpt": "1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 电费 吧 发贴 登录 首页 我的 大家都在逛的吧 抗压背锅 吧 三角洲行动陪玩 吧 孙笑川 吧 lol陪玩 吧 kpl 吧 cs赛事 吧 鸣潮爆料 吧 bilibili 吧 崩坏星穹铁道内鬼 吧 尐家军 吧 asoul 吧 碧蓝航线 吧 洛克王国手游 吧 第五人格交易 吧 三角洲行动 吧",
+    "quote": "1 1 2 2 3 3 4 4 5 5 6 6 7 7 8 8 9 9 电费 吧 发贴 登录 首页 我的 大家都在逛的吧 抗压背锅 吧 三角洲行动陪玩 吧 孙…",
+    "quoteType": "excerpt",
+    "sourceTitle": "贴吧内容：求，河北 百川燃气，走🐟-百度贴吧",
+    "url": "https://tieba.baidu.com/p/9919721458?fr=undefined",
+    "sourceUrl": "https://tieba.baidu.com/p/9919721458?fr=undefined",
+    "publishedAt": "2026-05-16T15:10:55.103Z",
+    "collectedAt": "2026-05-16T15:10:55.103Z",
+    "isExample": false,
+    "sentiment": "neutral",
+    "confidence": 0.62,
+    "topics": [
+      "userReputation"
+    ],
+    "useCaseMatches": [],
+    "engagement": 50,
+    "engagementMetrics": [
+      {
+        "key": "tieba_browser_0",
+        "label": "转发",
+        "value": 25,
+        "unit": "次",
+        "positive": true
+      },
+      {
+        "key": "tieba_browser_1",
+        "label": "回复",
+        "value": 25,
+        "unit": "次",
+        "positive": false
+      }
+    ],
+    "positiveSignals": [
+      "转发 25次"
+    ],
+    "auditStatus": "approved"
+  }
+]
