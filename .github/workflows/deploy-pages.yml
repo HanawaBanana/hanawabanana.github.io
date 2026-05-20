@@ -35,10 +35,15 @@ jobs:
           NEXT_PUBLIC_SITE_URL: "https://hanawabanana.github.io/china-model-rank"
           NEXT_PUBLIC_GA_MEASUREMENT_ID: "G-W80TF1WPB4"
         run: npm run build
+      - name: Stage site under subpath
+        run: |
+          rm -rf ../page-artifact
+          mkdir -p ../page-artifact/china-model-rank
+          cp -R out/. ../page-artifact/china-model-rank/
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3
         with:
-          path: china-model-rank/out
+          path: page-artifact
   deploy:
     environment:
       name: github-pages
