@@ -38,7 +38,7 @@ jobs:
         run: |
           rm -rf ../page-artifact
           mkdir -p ../page-artifact/china-model-rank
-          printf "page.far-domain.top\n" > ../page-artifact/CNAME
+          cp ../CNAME ../robots.txt ../sitemap.xml ../index.html ../page-artifact/
           cp -R out/. ../page-artifact/china-model-rank/
       - uses: actions/configure-pages@v5
       - uses: actions/upload-pages-artifact@v3

@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+Disallow: /china-model-rank/ops-console
+Disallow: /china-model-rank/admin
+Disallow: /china-model-rank/api/admin
+
+Sitemap: https://page.far-domain.top/sitemap.xml
+Sitemap: https://page.far-domain.top/china-model-rank/sitemap.xml
